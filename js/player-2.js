@@ -49,17 +49,17 @@ function getVersionImage(name){
         img.classList.add("vocal");
         img.classList.remove("backing");
         img.classList.remove("other");
-        return "img/audio-type/vocal.png";
+        return "./img/audio-type/vocal.png";
     } else if (n.includes("instrumental")) {
         img.classList.add("backing");
         img.classList.remove("vocal");
         img.classList.remove("other");
-        return "img/audio-type/instrumental.png";
+        return "./img/audio-type/instrumental.png";
     } else {
         img.classList.add("other");
         img.classList.remove("vocal");
         img.classList.remove("backing");
-        return "img/audio-type/other.png";
+        return "./img/audio-type/other.png";
     }
 }
 
@@ -170,8 +170,8 @@ async function loadSong(id) {
     // map versions to local paths
     audioVersions = (song.audios || []).map(a=>({
         name: a.infoName,
-        mp3: `resources/audio/mp3/file_audio_${a.id}.mp3`,
-        ogg: `resources/audio/ogg/file_audio_${a.id}.ogg`,
+        mp3: `./resources/audio/mp3/file_audio_${a.id}.mp3`,
+        ogg: `./resources/audio/ogg/file_audio_${a.id}.ogg`,
         versionduration: a.millisecondsLength
     }));
 
@@ -277,7 +277,4 @@ function stopPlayer() {
     audio.duration = 
     pauseIcon.classList.add("hidden");
     playIcon.classList.remove("hidden");
-
-
-
 }
