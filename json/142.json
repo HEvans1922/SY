@@ -1,0 +1,2545 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+            "id": "142",
+            "tempo": 106,
+            "infoName": "Just Sing!",
+            "infoNameExtractable": "Just Sing!",
+            "infoAuthor": "Mark and Helen Johnson",
+            "infoCopyright": "© 2007 & 2015 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2007 & 2015 Out of the Ark Ltd",
+            "infoCCLI": "5079643",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 4,
+            "styleBodySize": 34,
+            "styleTitleCol": "000000",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 60,
+            "styleCol1Highlighted": "DF005A",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "000000",
+            "styleCol2Unhighlighted": "000000",
+            "styleCol3Highlighted": "DD0000",
+            "styleCol3Unhighlighted": "000000",
+            "styleCol4Highlighted": "DD0000",
+            "styleCol4Unhighlighted": "000000",
+            "styleCol5Highlighted": "DF005A",
+            "styleCol5Unhighlighted": "000000",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 60,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/2/_3A_2C30R7S_28X-S4R-_23_3CR-S4U_3BC_3DQ-S_28Q.38P-S_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+            "fileLargeMD5": "11649d33309e2a518926c15cd1a23758",
+            "fileLargeSize": 371419,
+            "fileInfo": "songs/info/2/9_2C30R7S_3CQ_2C3_60Y.30P-35N.3_29N-C_3CR_2CS_2CW-_60_60_60_0A_60_0A.pdf",
+            "fileInfoMD5": "5f76e75e72fcfd59bcd872076910292b",
+            "fileInfoSize": 397270,
+            "fileLyrics": "songs/lyrics/2/_3B_2C30R7S_24X_2C_23_3CS-C_3CQ-_238U-6XY_2CFXV-S_28U_3BS_24R_0A_60_0A.pdf",
+            "fileLyricsMD5": "a9ac6ef80730abec10f7bfe6a3ed5852",
+            "fileLyricsSize": 91240,
+            "fileScore": "songs/scores/2/_3A_2C30R7S_40P_2CCDV_2CC_40V-34U_3BCDR_3BC8W_2CC_3CT_2CCD_60_0A_60_0A.pdf",
+            "fileScoreMD5": "67f8d6fd2955f1693de91141e8c6f519",
+            "fileScoreSize": 114483,
+            "title": "Just Sing!",
+            "author": "Mark and Helen Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/2/_3B_2C30R7S_24X_2C_23_3CS-C_3CQ-_238U-6XY_2CFXV-S_28U_3BS_24R_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/2/_3A_2C30R7S_40P_2CCDV_2CC_40V-34U_3BCDR_3BC8W_2CC_3CT_2CCD_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+            "age": "5-11",
+            "videoUrl": null,
+            "videoTitle": null,
+            "summary": "<p>A firm favourite in schools across the land. A defining &lsquo;statement song&rsquo;, which unashamedly waves the banner for singing in schools everywhere. Beware, you may find yourself singing some very unlikely lyrics, but you&rsquo;ll have great fun doing it!</p>",
+            "teachingTips": "<ul>\r\n\t<li>This song will work very well with two groups, each singing alternate phrases and everyone singing the chorus and the phrase &lsquo;<em>just sing</em>!&rsquo;</li>\r\n\t<li>Make sure you attack the <strong>syncopated rhythms</strong> with energy. Try standing to sing the song and get the children to change position every time they sing the word &lsquo;<em>sing</em>&rsquo;.</li>\r\n\t<li>In the chorus, before attempting to sing, get the children to clap the rhythm and say the words out loud in time. Then introduce the melody.</li>\r\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "",
+            "teachingTipsMedia": "",
+            "assemblyPlans": [],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "593",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3B-3DS7S_24X-_23DQ_2CS_2CX-3_60U-6XW_3C3_3CR_2C3DX-C_3DS_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                    "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                    "filename_size": 17272,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "44636",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 24105,
+                    "styleBodyLeading": 1,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "57304",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 4,
+                            "lines": [
+                                {
+                                    "id": "26732",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30917",
+                                            "content": "1",
+                                            "milliseconds": 7220,
+                                            "hide": 9372,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "30918",
+                                            "content": "2",
+                                            "milliseconds": 7740,
+                                            "hide": 9372,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "30919",
+                                            "content": "3",
+                                            "milliseconds": 8303,
+                                            "hide": 9372,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "30920",
+                                            "content": "4",
+                                            "milliseconds": 8853,
+                                            "hide": 9372,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "57305",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "26733",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30921",
+                                            "content": "<large>Sing </large>when you’re <large>happy,</large>",
+                                            "milliseconds": 9373,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26734",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30922",
+                                            "content": "<large>Sing </large>when you’re <large>sad,</large>",
+                                            "milliseconds": 11590,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26735",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30923",
+                                            "content": "<large>Sing when you’re laughing,</large>",
+                                            "milliseconds": 13862,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26736",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30924",
+                                            "content": "<large>Sing </large>though it’s<large> mad,</large>",
+                                            "milliseconds": 16112,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26737",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30925",
+                                            "content": "Sing <large>‘Howdy-doody’,</large>",
+                                            "milliseconds": 18486,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26738",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30926",
+                                            "content": "Sing <large>‘Toodle-oo’,</large>",
+                                            "milliseconds": 20763,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26739",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30927",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 22552,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44637",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 25038,
+                    "millisecondsStop": 42432,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "57306",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "26740",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30928",
+                                            "content": "<large>Sing </large>when it’s<large> sunny,</large>",
+                                            "milliseconds": 27660,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26741",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30929",
+                                            "content": "<large>Sing </large>when it’s<large> grey,</large>",
+                                            "milliseconds": 29989,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26742",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30930",
+                                            "content": "<large>Sing </large>when it’s<large> raining,</large>",
+                                            "milliseconds": 32227,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26743",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30931",
+                                            "content": "<large>Sing </large>every<large> day,</large>",
+                                            "milliseconds": 34500,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26744",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30932",
+                                            "content": "Sing <large>‘Hallelujah!’,</large>",
+                                            "milliseconds": 36784,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26745",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30933",
+                                            "content": "Sing <large>‘Wackadoo’,</large>",
+                                            "milliseconds": 39121,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26746",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30934",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 40823,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44638",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 43658,
+                    "millisecondsStop": 56357,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "593",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3B-3DS7S_24X-_23DQ_2CS_2CX-3_60U-6XW_3C3_3CR_2C3DX-C_3DS_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                            "filename_size": 17272,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "57307",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "26747",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30935",
+                                            "content": "<large>Don’t you worry </large>if it’s heard or not,",
+                                            "milliseconds": 46003,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26748",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30936",
+                                            "content": "Keep on singing, <large>give it all you’ve got,</large>",
+                                            "milliseconds": 50585,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26749",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30937",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 54624,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44639",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 58674,
+                    "millisecondsStop": 78802,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "57308",
+                            "infoName": "3.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "26750",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30938",
+                                            "content": "<large>Sing </large>when it’s<large> easy,</large>",
+                                            "milliseconds": 64232,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26751",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30939",
+                                            "content": "<large>Sing </large>when it’s<large> not,</large>",
+                                            "milliseconds": 66520,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26752",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30940",
+                                            "content": "<large>Sing </large>in pyjamas,",
+                                            "milliseconds": 68811,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26753",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30941",
+                                            "content": "<large>Sing </large>in your<large> socks,</large>",
+                                            "milliseconds": 71084,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26754",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30942",
+                                            "content": "Sing <large>‘Humpty Dumpty’,</large>",
+                                            "milliseconds": 73390,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26755",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30943",
+                                            "content": "Sing <large>‘Kangaroo’,</large>",
+                                            "milliseconds": 75629,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26756",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30944",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 77424,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44640",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 79972,
+                    "millisecondsStop": 92752,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "593",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3B-3DS7S_24X-_23DQ_2CS_2CX-3_60U-6XW_3C3_3CR_2C3DX-C_3DS_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                            "filename_size": 17272,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "57309",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "26757",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30945",
+                                            "content": "<large>Don’t you worry </large>if it’s heard or not,",
+                                            "milliseconds": 82593,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26758",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30946",
+                                            "content": "Keep on singing, <large>give it all you’ve got,</large>",
+                                            "milliseconds": 87195,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26759",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30947",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 91076,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44641",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 94069,
+                    "millisecondsStop": 115321,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "57310",
+                            "infoName": "4.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "26760",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30948",
+                                            "content": "<large>Sing </large>in the garden,",
+                                            "milliseconds": 100841,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26761",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30949",
+                                            "content": "<large>Sing </large>in the bath,",
+                                            "milliseconds": 103109,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26762",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30950",
+                                            "content": "<large>Sing </large>for your supper,",
+                                            "milliseconds": 105432,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26763",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30951",
+                                            "content": "<large>Sing </large>for a laugh,",
+                                            "milliseconds": 107704,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26764",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30952",
+                                            "content": "Sing <large>‘Mashed potato’,</large>",
+                                            "milliseconds": 109909,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26765",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30953",
+                                            "content": "Sing <large>‘Vindaloo’,</large>",
+                                            "milliseconds": 112195,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26766",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30954",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 114016,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44642",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 116570,
+                    "millisecondsStop": 133570,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "57311",
+                            "infoName": "5.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 60,
+                            "lines": [
+                                {
+                                    "id": "26767",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30955",
+                                            "content": "<large>Sing </large>with a whisper,",
+                                            "milliseconds": 119146,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26768",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30956",
+                                            "content": "<large>Sing </large>very loud,",
+                                            "milliseconds": 121363,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26769",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30957",
+                                            "content": "<large>Sing </large>when you’re lonely,",
+                                            "milliseconds": 123725,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26770",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30958",
+                                            "content": "<large>Sing </large>in a crowd,",
+                                            "milliseconds": 125986,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26771",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30959",
+                                            "content": "Sing<large> grandioso!</large>",
+                                            "milliseconds": 128225,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26772",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30960",
+                                            "content": "<large>Sing </large>out the<large> blues,</large>",
+                                            "milliseconds": 130567,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26773",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30961",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 132298,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "44643",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 134649,
+                    "millisecondsStop": 170430,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "593",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/3/_3B-3DS7S_24X-_23DQ_2CS_2CX-3_60U-6XW_3C3_3CR_2C3DX-C_3DS_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                            "filename_size": 17272,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "57312",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "26774",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30962",
+                                            "content": "<large>Don’t you worry </large>if it’s heard or not,",
+                                            "milliseconds": 137423,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26775",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30963",
+                                            "content": "Keep on singing, <large>give it all you’ve got,</large>",
+                                            "milliseconds": 141966,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26776",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30964",
+                                            "content": "<large>Don’t you worry </large>if it’s heard or not,",
+                                            "milliseconds": 146601,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26777",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30965",
+                                            "content": "Keep on singing, <large>give it all you’ve got,</large>",
+                                            "milliseconds": 151146,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "26778",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "30966",
+                                            "content": "<large>Just sing! </large>",
+                                            "milliseconds": 155084,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "30967",
+                                            "content": "<large>Just sing! </large>",
+                                            "milliseconds": 159652,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "30968",
+                                            "content": "<large>Just sing! </large>",
+                                            "milliseconds": 164287,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "30969",
+                                            "content": "<large>Just sing!</large>",
+                                            "milliseconds": 168832,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "275",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2007\",\"album\":\"Songs for Every Singing School\",\"track\":\"6\",\"TBPM\":\"\"}",
+                    "duration": 184880,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 106,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark & Helen Johnson",
+                    "infoCopyright": "2007 & 2012 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN0700123",
+                    "millisecondsLength": 184880,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/0/_3C_2CC4Y._23_21_3F-_23_28S-S4P-S_60P-7_25P_2C_27-N_3BS_2CX_3CS_29N_3B_40_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/1/_3D_2CC4Y._23_25_3F_2CC_60R-34X-3DQ_2C35Q_3C_23_21S_3BF_5CX-6_5CP_3BC4_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "285b0878e3286589f3b307326ac42c15",
+                        "ogg": "0c1d9dcbdcd0631d885ec2e943ff2b51",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4439086",
+                        "ogg": "2546340",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "276",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2007\",\"album\":\"Songs for Every Singing School\",\"track\":\"21\",\"TBPM\":\"\"}",
+                    "duration": 184880,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 106,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark & Helen Johnson",
+                    "infoCopyright": "2007 & 2012 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN0700138",
+                    "millisecondsLength": 184880,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/3/_3D_2CC4Y._23-_3F_2C38S-C_60T-38T_2CS5Q_3C_23_21S_3BF_5DR-C_2CU_3CC_3C_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/4/_3C_2CC4Y._231_3F.34V_2C_234P-C0V-7_25P_2C_27-N_3C_23_2CR_3CG-R_3B_40_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "b52ae0670fcfc7f9c77dd0105779672f",
+                        "ogg": "14f58d818203999e53dfae3b28f1fbf6",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "4439087",
+                        "ogg": "2542391",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1531",
+                    "type": "Vocal Range",
+                    "formattedName": "F-D",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1219",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Syncopation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1201",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Articulation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1210",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Melodic Leaps",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1136",
+                    "type": "Song Type",
+                    "formattedName": "Unison",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1241",
+                    "type": "Musical Style",
+                    "formattedName": "Latin",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1288",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Just For Fun",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1502",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Growth Mindset",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1407",
+                    "type": "Seasonal",
+                    "formattedName": "All Year",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1417",
+                    "type": "Curriculum Subject Links",
+                    "formattedName": "Music",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1150",
+                    "type": "Starting Key",
+                    "formattedName": "Bb Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1188",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Small",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1935",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Wellbeing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1937",
+                    "type": "Has Video",
+                    "formattedName": "Yes",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "203",
+                    "slug": "writing-new-lyrics",
+                    "title": "Writing New Lyrics",
+                    "privateTitle": "Writing New Lyrics",
+                    "content": "[{\"key\":\"82c73aea342f49e9\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To recognize recurring rhythm and rhyme patterns in lyrics<\\/li>\\n\\t<li>To compose lyrics within a given rhythmic and rhyming scheme<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"a43b5d2d5d8eea9c\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>White\\/blackboard; <em>Just Sing! <\\/em>instrumental&nbsp;track<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"980850b5e1bd2563\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Draw attention to the language <\\/strong>in the last line of each verse (e.g. <em>Humpty Dumpty\\/kangaroo; mashed potato\\/vindaloo<\\/em>). Observe the <strong>recurring rhythm\\/rhyme pattern<\\/strong>. There are four syllables in the first phrase (<em>Hump-ty-Dump-ty<\\/em>) and three in the second (<em>kan-ga-roo<\\/em>). Also, the second word or phrase always ends with an &lsquo;oo&rsquo; rhyme. Write some new &lsquo;last lines&rsquo; and try them out:<\\/p>\\n\\n<p><em>&#39;Sing<\\/em>&hellip; (4 syllables), <em>sing<\\/em>&hellip; (3 syllables\\/oo rhyme), <em>just sing!<\\/em>&rsquo;<\\/p>\\n\\n<p>Think about using <strong>words that are fun to sing<\\/strong> &ndash; ones that make your tongue and lips move a lot or ones that make you smile. Which of your new lyrics are the most enjoyable to sing? Why?<\\/p>\\n\\n<p>Sing the song through with all your new lyrics!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}},{\"key\":\"2f05cfff030cec2b\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Very often we teach songs without talking about the content. Take some time to discuss the children&rsquo;s <strong>experience of singing<\\/strong>. When do they sing? Where do they sing? Why? What about other people in their family? Do they have any concept of the <strong>benefits of singing<\\/strong>?<\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}}]",
+                    "active": true,
+                    "summary": "<div>Have fun composing some new lyrics for <em>Just Sing! </em>using recurring syllabic rhythm/rhyme patterns. Your lips and tongue will be buzzing with all the fabulously ‘chewable’ words you could choose.&nbsp;</div>",
+                    "ageRange": "6-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1632",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Compose",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1744",
+                            "type": "Age Range",
+                            "formattedName": "6-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1634",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "*",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1735",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/summer-assemblysongs-cd-1626164467UNuPA.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "205",
+                    "slug": "singing",
+                    "title": "SINGING",
+                    "privateTitle": "SINGING",
+                    "content": "[{\"key\":\"2a82cf520889447b\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Singing is good for you! <\\/strong>What other single activity do you know of that has the capacity to:<\\/p>\\n\\n<ul>\\n\\t<li>improve lung-capacity and circulation<\\/li>\\n\\t<li>improve posture, confidence and self-esteem<\\/li>\\n\\t<li>enhance mental alertness and creativity<\\/li>\\n\\t<li>reduce blood pressure and anxiety<\\/li>\\n\\t<li>boost the immune system<\\/li>\\n\\t<li>release pain-relieving endorphins and muscle tension<\\/li>\\n\\t<li>exercise all the major muscle groups in the upper body<\\/li>\\n\\t<li>improve your mood at the same time (by releasing the same &lsquo;feel-good&rsquo; endorphins as chocolate)?<\\/li>\\n<\\/ul>\\n\\n<p><strong>All with no cost or calories! This singing stuff is good!<\\/strong><\\/p>\\n\",\"title\":\"\",\"noMargin\":false,\"background_color\":null}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "7",
+                        "name": "Spotlight on...",
+                        "color": "#15A881",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "974",
+                            "title": "The Season Of Singing",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/springthing-cd-1626164464Y5Xbr.jpg",
+                            "duration": 185790,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1735",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/summer-assemblysongs-cd-1626164467UNuPA.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1098",
+                    "slug": "singing-body-map",
+                    "title": "Singing Body Map",
+                    "privateTitle": "Singing Body Map",
+                    "content": "[{\"key\":\"e85b93839303be1a\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Study the health benefits of singing by drawing a map of the body illustrating the following areas:<\\/p>\\n\\n<ul>\\n\\t<li>The physical act of singing releases endorphins &ndash; the brain&rsquo;s &lsquo;feel good&rsquo; chemicals<\\/li>\\n\\t<li>Group-singing creates a sense of belonging and connection<\\/li>\\n\\t<li>Singing exercises core muscles and encourages oxygen intake, which leads to increased alertness<\\/li>\\n\\t<li>Singing is a natural stress-reducer<\\/li>\\n\\t<li>Singing even improves neurological functioning<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1421",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Science",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "145",
+                            "title": "New Day Blues",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 137950,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "469",
+                            "title": "I Have A Song To Sing",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 189360,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "974",
+                            "title": "The Season Of Singing",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/springthing-cd-1626164464Y5Xbr.jpg",
+                            "duration": 185790,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1108",
+                    "slug": "doodle-video",
+                    "title": "Doodle Video",
+                    "privateTitle": "Doodle Video",
+                    "content": "[{\"key\":\"30e6bd6a3ce70f8c\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Make a &lsquo;Doodle video&rsquo;<\\/strong> using video software like Windows Movie Maker or Apple VideoPad for Macs. Choose a song to learn as a class. Number each line of the song then put the number and the lyric line on the back of pieces of A4 paper. Get children to draw a picture showing the meaning of the song line in pairs and when finished, take photos of each picture to create the class Doodle video!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1626",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Design & Technology",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1625",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Art",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "145",
+                            "title": "New Day Blues",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 137950,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1109",
+                    "slug": "where-do-you-sing",
+                    "title": "Where Do You Sing?",
+                    "privateTitle": "Where Do You Sing?",
+                    "content": "[{\"key\":\"10c67c7aaf925901\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Conduct a class\\/school survey, to find out when or where people sing most (include school staff as well), e.g. I sing most in the&hellip; kitchen\\/bath\\/car\\/school; when I&rsquo;m happy\\/sad\\/excited etc.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1416",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Maths",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "144",
+                            "title": "Sing Anyway",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 154310,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1110",
+                    "slug": "just-sing-makaton-signing-video",
+                    "title": "Just Sing! – Makaton Signing Video",
+                    "privateTitle": "Just Sing! – Makaton Signing Video",
+                    "content": "[{\"key\":\"2be60cd51f1c88b6\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=MQrBo1tTIAg&ab_channel=OutoftheArkMusic\",\"title\":\"Singing Hands - Makaton Signing\",\"noMargin\":true}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1972",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "SEND",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "13",
+                        "name": "SEND Resource",
+                        "color": "#D8127D",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1735",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/summer-assemblysongs-cd-1626164467UNuPA.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1207",
+                    "slug": "show-time",
+                    "title": "Show Time",
+                    "privateTitle": "Yr 1 Term 3 Step 4 Activity 3",
+                    "content": "[{\"key\":\"c96c1252a8cd9212\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Ideal for 2 sessions<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"adb63e8cc28d84a3\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To prepare songs for performance<\\/li>\\n\\t<li>To follow simple performance directions<\\/li>\\n\\t<li>To suggest ways to improve a performance<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"5a2b814e511bfe25\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Performance space; an audience!<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"4d9f0207dabba953\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Perform; audience; loud; strong; quiet; getting louder; getting quieter; smooth; spiky; solo; group<\\/p>\\n\",\"title\":\"Key vocabulary\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/icons-keyvocab-280x280-27-1620218359Ng3ET.png\"}},{\"key\":\"aae118bcde4212ac\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Remind children of the songs they have enjoyed singing over the past term.<\\/strong> Which songs did they like best?&nbsp;Ask the class to <strong>share their favourites<\\/strong> and give reasons for their choices. Perhaps they liked the lyrics, the catchy tune in the chorus, or how the song made them feel.<\\/p>\\n\\n<p>Children could create a list of their favourite songs. Use their answers to <strong>compile a class &lsquo;Top Ten&rsquo;<\\/strong>.<\\/p>\\n\\n<p>Next, choose one or two class favourites and provide an opportunity to<strong> perform them to an audience<\\/strong>, e.g. different classes or parents. Perhaps they could perform in an assembly, at a school event or in the playground at the end of break time.<\\/p>\\n\\n<p>As you plan a performance, <strong>discuss some of the following with the class<\\/strong>:<\\/p>\\n\\n<ul>\\n\\t<li><strong>What shall we sing?<\\/strong> Choose a song! Make sure everyone knows it well and understands what it is about.<\\/li>\\n\\t<li><strong>Who shall sing?<\\/strong> Try varying the texture of the song by introducing a solo line or two. You could also decide which parts of the song could be sung by a small group or the whole class.<\\/li>\\n\\t<li><strong>How shall we sing?<\\/strong> Use simple dynamics to add interest. Which parts of the song could be sung softly, loudly etc.? Think about articulation: are there any words that need to be emphasized or sung in a certain way (e.g. smooth or spiky)?<\\/li>\\n\\t<li><strong>Where?<\\/strong> If possible, practise in the performance space and think about how the class will be positioned.<\\/li>\\n<\\/ul>\\n\\n<p><strong>Other things!<\\/strong><\\/p>\\n\\n<p>You might also like to think about using <strong>instruments to accompany the song<\\/strong> or creating simple actions to<strong> bring the song to life<\\/strong>.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"bf0ee10a793ceacd\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Following the performance, ask the class to share their thoughts about the experience. <strong>How did they feel? <\\/strong>Which parts of the performance went well? Did the performance feel different to the rehearsal?<\\/p>\\n\\n<p>Are there any things they might<strong> improve or change<\\/strong> if they were to perform again?<\\/p>\\n\\n<p>If possible, you could try creating a <strong>recording or film of the performance<\\/strong> to share with the class.<\\/p>\\n\",\"title\":\"Step It Up!\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1873-1614695091mFFrP.png\"}},{\"key\":\"b6e8403f132dc245\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"ASSESSMENT SUGGESTIONS\",\"background_color\":\"#009CCF\"}},{\"key\":\"3d3f0e6026792547\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>Can they show an awareness of different roles in music performance, e.g. performer, audience?<\\/li>\\n\\t<li>Can they prepare a song for performance, suggesting simple ways to enhance the performance (e.g. actions, facial expression, simple dynamics)?<\\/li>\\n\\t<li>Can they talk about their performances (e.g. talking about things they enjoyed or that went well)?<\\/li>\\n\\t<li>Can they follow simple direction (e.g. following actions)?<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-6",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[{\"layout\":\"Pdf\",\"key\":\"cfdf54689829c08a\",\"attributes\":{\"text\":\"Top 10 Songs\",\"pdf\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/MusicCurriculum\\/CurriculumPrintables\\/Year1\\/y1-showtime-v3-1685018146tU7ES.pdf\",\"noMargin\":false,\"pdfId\":\"1897\"}}]",
+                    "href": "/music-curriculum-plan/year/4/term/16/step/57/lesson-plan/203",
+                    "resourceTags": [
+                        {
+                            "id": "1719",
+                            "type": "Music Checklist",
+                            "formattedName": "Pitch",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1738",
+                            "type": "Music Checklist",
+                            "formattedName": "Pulse",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1734",
+                            "type": "Music Checklist",
+                            "formattedName": "Structure",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1735",
+                            "type": "Music Checklist",
+                            "formattedName": "Articulation",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1716",
+                            "type": "Music Checklist",
+                            "formattedName": "Dynamics",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1715",
+                            "type": "Music Checklist",
+                            "formattedName": "Texture",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "4",
+                        "name": "Music Curriculum Activity",
+                        "color": "#F27021",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "444",
+                            "title": "When It’s A Sunny Day",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-occasion-cd-1626164433r6L2u.jpg",
+                            "duration": 147370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "823",
+                            "title": "The Brrrass Band",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-warmups-cd-1626164459Zeej5.jpg",
+                            "duration": 56430,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1053",
+                            "title": "We’re Detectives",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-ilovemusic-cd-1626164962QwlZk.jpg",
+                            "duration": 125370,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1061",
+                            "title": "Sound Collectors",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-ilovemusic-cd-1626164962QwlZk.jpg",
+                            "duration": 169590,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1093",
+                            "title": "Lunch",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/nd-everydaysongs-cd-1626164351Epk7B.jpg",
+                            "duration": 85720,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1151",
+                            "title": "Happy Sun High",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 78280,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1155",
+                            "title": "Steam Train",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 116970,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1157",
+                            "title": "Dandelion Clocks",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 128310,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1170",
+                            "title": "Come With Me To The Beach",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 136770,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1172",
+                            "title": "Sunglasses",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 84650,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1173",
+                            "title": "Picnic",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 57320,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1174",
+                            "title": "Lying In The Daisies",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/ndspringsummer-cd-1626164362ui7Ht.jpg",
+                            "duration": 100590,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1204",
+                            "title": "Perfect Symmetry",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/nd-marvellousmaths-cd-1626164353e3Abs.jpg",
+                            "duration": 136840,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1364",
+                            "title": "Healthy Me",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-allaboutme-cd-1626164321cMgbw.jpg",
+                            "duration": 96630,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1402",
+                            "title": "If You Were A Turkey",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-animals-cd-1626164323GDshk.jpg",
+                            "duration": 123160,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1471",
+                            "title": "The Doodling Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-colourspatterns-cd-1637066023FFAOt.jpg",
+                            "duration": 87240,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1725",
+                            "title": "Don’t Forget Your Sun Cream",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/summer-assemblysongs-cd-1626164467UNuPA.jpg",
+                            "duration": 144790,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2186",
+                            "title": "Don’t Forget Your Sun Cream",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-summer-cd-1678364274Chvfe.jpg",
+                            "duration": 146550,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1344",
+                    "slug": "lyrics",
+                    "title": "Lyrics",
+                    "privateTitle": "Yr4 Term 3 Step 4 Activity 3",
+                    "content": "[{\"key\":\"74b94e0004299ae7\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Ideal for 2 sessions<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"bdeb125a8344630d\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To recognize recurring rhythm and rhyme patterns in lyrics<\\/li>\\n\\t<li>To compose lyrics within a given rhythmic and rhyming scheme<\\/li>\\n\\t<li>To prepare a song for performance<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"7c15d098a37094a8\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Syllable; phrase; chorus; melody; rhythm; scan<\\/p>\\n\",\"title\":\"Key vocabulary\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/icons-keyvocab-280x280-27-1620218359Ng3ET.png\"}},{\"key\":\"4956699c7d92e7c1\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><em>Just Sing!&nbsp;<\\/em>is a great song for performance.<\\/p>\\n\\n<p>This song will work very well with <strong>two groups <\\/strong>each singing alternate phrases and everyone singing the chorus and the phrase&nbsp;<em>&#39;Just Sing!&#39;&nbsp;<\\/em>Get to know the song and <strong>make sure the class attacks the syncopated rhythms with energy<\\/strong>. Try standing to sing the song and get the children to <strong>change position every time they sing the word&nbsp;<em>&#39;sing&#39;<\\/em><\\/strong><em>.<\\/em><\\/p>\\n\\n<p>In the chorus, before attempting to sing, get the children to <strong>clap the rhythm and say the words out loud<\\/strong>, in time. Then, introduce the melody.<\\/p>\\n\\n<p>Once the class knows the song well, try writing some <strong>additional lyrics<\\/strong>.<\\/p>\\n\\n<p>Draw attention to the <strong>language in the fifth and sixth lines<\\/strong> of each verse (e.g.&nbsp;<em>&#39;Humpty Dumpty&#39; \\/ &#39;Kangaroo&#39;;&nbsp;&#39;Mashed potato&#39; \\/ &#39;Vindaloo&#39;).<\\/em><\\/p>\\n\\n<p>Observe the <strong>recurring rhythm\\/rhyme pattern<\\/strong>. There are <strong>four syllables<\\/strong> in the first phrase (Hump-ty Dump-ty) and <strong>three<\\/strong> in the second (Kan-gar-oo). Also, the second word or phrase always ends in an &#39;oo&#39; rhyme.<\\/p>\\n\\n<p>Write some new last lines and try them out:<\\/p>\\n\\n<ul>\\n\\t<li><strong>Sing... (4 syllables)&nbsp;<\\/strong><\\/li>\\n\\t<li><strong>Sing... (3 syllables \\/ &#39;oo&#39; rhyme)&nbsp;<\\/strong><\\/li>\\n\\t<li><strong>Just sing!<\\/strong><\\/li>\\n<\\/ul>\\n\\n<p>Think about using words that are fun to sing, ones that make your <strong>tongue and lips move a lot,&nbsp;<\\/strong>or ones that <strong>make you smile<\\/strong>. Which of your new lyrics are the most enjoyable to sing? Why?<\\/p>\\n\\n<p>Sing the song through with all your new lyrics! <strong>Practise singing the class verse to the instrumental track.<\\/strong> Do the new lyrics scan well? Is there anything that could be improved? <strong>Take the children&#39;s suggestions and make changes as necessary.<\\/strong> Once the children know the song well, arrange for them to <strong>perform it<\\/strong> to another class or in a school assembly.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"11a2b7dfd2adccc9\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Divide the class into five groups and assign each a verse from the song. <strong>Challenge the groups to write additional lyrics<\\/strong> for the fifth and sixth lines and to practise the verse for performance.&nbsp;<\\/p>\\n\\n<p>Give each group some time to rehearse and then <strong>bring everyone together to perform the song<\\/strong>.<\\/p>\\n\",\"title\":\"Step It Up!\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1873-1614695091mFFrP.png\"}},{\"key\":\"e5ccf68fa06380f3\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Very often we teach songs without talking about the content. Take some time to discuss the <strong>children&#39;s experience of singing<\\/strong>. When do they sing? Where do they sing? Why? What about other people in their family?<\\/p>\\n\\n<p>Talk to the class about<strong> the benefits of singing<\\/strong>:<\\/p>\\n\\n<ul>\\n\\t<li>Singing makes you happy! It lowers cortisol and produces oxytocin, which relieves stress and tension. It also boosts confidence through the release of endorphins<\\/li>\\n\\t<li>Singing is a mindful activity, allowing us to live in the moment<\\/li>\\n\\t<li>Singing together creates a strong sense of community and togetherness<\\/li>\\n\\t<li>Singing can help us express our emotions<\\/li>\\n\\t<li>Singing improves breathing and strengthens the immune system<\\/li>\\n<\\/ul>\\n\\n<p>Ask the class to <strong>create a poster to promote singing<\\/strong>, using ideas generated from the discussion. Display them in different parts of the school or on the school website. Or, how about <strong>performing a song in an assembly or in the playground<\\/strong> and sharing the posters they have created?<\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}},{\"key\":\"631866b1330d4487\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"ASSESSMENT SUGGESTIONS\",\"background_color\":\"#009CCF\"}},{\"key\":\"464154fb4a5febb2\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>Can they compose lyrics following a rhythmic and rhyming structure?<\\/li>\\n\\t<li>Can they identify the structure of a song?<\\/li>\\n\\t<li>Can they comment on their work, identifying aspects that could be improved?<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": "/music-curriculum-plan/year/2/term/19/step/68/lesson-plan/246",
+                    "resourceTags": [
+                        {
+                            "id": "1719",
+                            "type": "Music Checklist",
+                            "formattedName": "Pitch",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "4",
+                        "name": "Music Curriculum Activity",
+                        "color": "#F27021",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1355",
+                    "slug": "in-harmony",
+                    "title": "In Harmony",
+                    "privateTitle": "Y3 Term 3 Step 4 Activity 1",
+                    "content": "[{\"key\":\"ca8a6740d7783e7d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Ideal for 1-2 sessions<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"9d083ee0f403b992\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To perform a simple harmony<\\/li>\\n\\t<li>To maintain a part in an ensemble<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"faf793a50b5be717\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Tuned percussion (A B<span style=\\\"font-size:22px\\\">\\ued60<\\/span> G A F E)<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"ecf1f0728c31025a\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Tempo; pulse; listen; verse; chorus; melody; harmony; two parts; duet; ensemble; soprano; alto; tenor; bass<\\/p>\\n\",\"title\":\"Key vocabulary\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/icons-keyvocab-280x280-27-1620218359Ng3ET.png\"}},{\"key\":\"1f4753153743b2b5\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>To get the class used to the idea of <strong>performing in two parts<\\/strong>, try this simple rhythm warm-up:<\\/p>\\n\\n<p>Perform some actions together (e.g. stretch arms, clap hands, stamp) to a steady count of &lsquo;1 2 3 4&rsquo;.<\\/p>\\n\\n<p>Next, <strong>divide the class into two groups<\\/strong> and assign an action to each. Repeat the actions over and over, making sure the tempo remains steady, e.g.<\\/p>\\n\\n<ul>\\n\\t<li>Group 1: Stretch arms in a rainbow motion (for four beats or counts)<\\/li>\\n\\t<li>Group 2: Clap hands (for four beats or counts)<\\/li>\\n<\\/ul>\\n\\n<p>Can the class perform their actions at the same time, maintaining a steady pulse? Next, <strong>introduce a signal to swap actions<\\/strong>, such as a tambourine shake or by saying &lsquo;switch&rsquo;. Can each group maintain their part and keep the tempo steady?<\\/p>\\n\\n<p><em>Music Matters<\\/em> is a great song for getting the class to sing in two groups and in the last two verses, the chorus&nbsp;is sung alongside the verses. Each verse and chorus repeats, so begin by dividing the class into two groups as before and take it in turns to sing the melody to each other. Is everyone singing in tune? Is the rhythm accurate?<\\/p>\\n\\n<p>Next, <strong>focus on the last two verses of the song<\\/strong>, where the chorus&nbsp;is sung alongside the verses. Assign the verse to Group 1 and the chorus to Group 2. Try singing the parts together. Remember, you can also select the Group 2 vocal track to help everyone practise their individual part.<\\/p>\\n\\n<p><strong>Add a tuned percussion part:<\\/strong><\\/p>\\n\\n<p>Try adding some percussion to the song. The long, slow notes of the chorus when <em>&lsquo;Music matters&rsquo; <\\/em>is being sung can be played on tuned percussion, either the melody &ndash; A&nbsp;B<span style=\\\"font-size:22px\\\">\\ued60<\\/span>&nbsp;G&nbsp;A &ndash; or, more simply, the harmony notes &ndash; F&nbsp;G&nbsp;E&nbsp;F.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"c2c74fe32a14ebac\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Explain to the class that <strong>music can be written in parts<\\/strong>. Sometimes, all the musicians play or sing the same thing, or different groups or individuals will play different parts which fit together to <strong>create harmony<\\/strong>.<\\/p>\\n\\n<p>An ensemble such as a choir might all <strong>sing in unison<\\/strong>, meaning all the singers sing the <strong>same melody line<\\/strong>. Or the choir might be divided into <strong>two or more parts<\\/strong>, often dependent on the <strong>types of voices<\\/strong>.<\\/p>\\n\\n<p>Listen to the <em>Hallelujah Chorus<\\/em> from <em>Messiah<\\/em> by Handel. This piece was written for a <strong>large chorus of singers<\\/strong> divided into <strong>four sections<\\/strong> according to their voice type (Soprano, Alto, Tenor and Bass).<\\/p>\\n\",\"title\":\"Listen\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/listen-01-1615991956LRT6z.png\"}},{\"key\":\"891d8b908b7a62e3\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=IUZEtVbJT5c\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"aabb8a8d41956b8d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p style=\\\"margin-left:40px\\\">Or how about listening to the <em>Barcarolle<\\/em> from <em>The Tales of Hoffmann<\\/em> by Offenbach and see if the class can identify where the two soloists are&nbsp;singing individually, together or&nbsp;two separate parts. Can they also listen out for when they are accompanied by a choir?<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"6598431c1887b8c2\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/www.youtube.com\\/watch?v=0u0M4CMq7uI\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"78d1565e8b742166\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p><em>Music Matters<\\/em> and <em>Just Sing!<\\/em>&nbsp;highlight the importance of music and singing specifically. Take some time to discuss the children&rsquo;s experience of singing. When do they sing? Where do they sing? Why? What about other people in their family? Do they have any concept of the benefits of singing? Ask the class to carry out some research at home, asking members of their family and close friends about their ideas and feelings about music and singing.<\\/p>\\n\",\"title\":\"Branch Out\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1874-1614695090s5QJx.png\"}},{\"key\":\"9b18a96ec878c7b6\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Assessment Suggestions\",\"background_color\":\"#009CCF\"}},{\"key\":\"ea377d777dd0df77\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>Can they sing a simple song in two parts?<\\/li>\\n\\t<li>Can they maintain a simple harmony part?<\\/li>\\n\\t<li>Can they develop an understanding of how music can be written in different parts and voices (e.g. SATB choir, solos, duets)?<\\/li>\\n<\\/ul>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "7-8",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": "/music-curriculum-plan/year/1/term/18/step/78/lesson-plan/259",
+                    "resourceTags": [
+                        {
+                            "id": "1719",
+                            "type": "Music Checklist",
+                            "formattedName": "Pitch",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1734",
+                            "type": "Music Checklist",
+                            "formattedName": "Structure",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "4",
+                        "name": "Music Curriculum Activity",
+                        "color": "#F27021",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1039",
+                            "title": "Music Matters",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/myworld-ilovemusic-cd-1626164962QwlZk.jpg",
+                            "duration": 143630,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [],
+            "recommendedResources": [],
+            "esbTrack": {
+                "id": "374",
+                "esongbook": {
+                    "id": "28",
+                    "infoName": "The New Songs for EVERY... Sampler eSongbook",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": null,
+                    "imageFilename": "EVERY-Sampler_cover187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/8/8_2CCA_3F.30V_2C3_40X-S4U-C4V_3C39O.3_3DQ_2C_27_2CR_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/8/_3A_2CCA_3F_2C3_2CQ_2C3_24Q-_234T-_234V-39Q-F_5CY-W-R_2CVX_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                    "albumArt": null,
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "176",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_3CV7S_24U_2C30X-C_40Y_2C_23_24U-C4T-G_28T-G_28S_3BG_60V_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "pdfFileMd5": "1b333dcadf69ed4ab07eec551f06136c",
+                            "pdfFileSize": 2939707,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "178",
+                            "ordering": 2,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.com",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "427",
+                            "title": "As One",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-body-cd-1626164420a9hTW.jpg",
+                            "duration": 169520,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "9",
+                    "infoName": "Songs For EVERY Singing School",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "Singing-School-2-187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/9/8.5_5CW_2C34U-3_3CY-C8U-6XV_2CC5P_3BC_21P_3CG_28T_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/9/8.5_5CX_2C3_60S-C_2CT._23DU-6XV_2CC5P_3BC_24Q_2C3_24R_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": true,
+                    "resources": [
+                        {
+                            "id": "75",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/5/_3A-S5_3F_2CC_60Y.3_3CS_2CC4T-S4U_3BCDR._23_21S_2C_26_5CU-S8_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "pdfFileMd5": "0228f7e9500dbecbaca6ae9d530286d8",
+                            "pdfFileSize": 12596991,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "77",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/7/9-S_3D_3F._234T-_23_3CX._23_60U-35N.3_28X-C_29R_3BS_21P-_40_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "pdfFileMd5": "5b8bae1a0ff9662ab2b1008abcdd074d",
+                            "pdfFileSize": 236643,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "79",
+                            "ordering": 7,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.com",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "429",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3A-_23_28Y7S4P_2C_230X_2C_23_3CY_2C34X_2CG_2CS_2CS_3DN_3C_230X-W_2C_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "pdfFileMd5": "0eb5a0594689ec34b958f441badc5efe",
+                            "pdfFileSize": 42295,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "430",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/0/9-_23_2CP7S8X.38S._238V-3_40R_3CS_2CT_2C3_21R-7_2CW_3B_40_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM0YjA2YTY1Yjk3NjIxOTAwZmU4MWViYzc3OWY4ZGQ2ZTIxYTg1NzUiLCJqdGkiOiIzNGIwNmE2NWI5NzYyMTkwMGZlODFlYmM3NzlmOGRkNmUyMWE4NTc1IiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODIzNjEsImlhdCI6MTc2MTA4MDU2MSwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.aYlF80WEWNTvanZY7VdVKtYS39b3df4rajcPuxqUkoeZ8h32yzkSdQJ810E0P3Ye_kb7RLFtSd_9RqNE7uZ6LkYHPoncIcPBYxQyoTr_d8zsaPmx5jNE7OBZ7MwtxSnPadZlPshpByFjYrZlSfDgX3NvWBnTce-A-nDS4R_tNjk3jtzhCAXHQf23xdsojeZlF0OmN-HeDHsB9aORI90y4cSVlwQFw9FU-zJPyh5dkKUcPWBnms7sqXnM0-l92qPG0eTWyiPVO0LAJjs3FEagmu2821mqlgYE5wvomAozVsX8a4kU7NFBdEgxb9Sf37tw4BT7TypqZGg0zzm-y7ZD2A",
+                            "pdfFileMd5": "bc1f6d7cb787e2af4e44be2bc1e330d5",
+                            "pdfFileSize": 3817947,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1781",
+                            "ordering": 5,
+                            "type": "link",
+                            "title": "Signing Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/SSL-signing-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1890",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "140",
+                            "title": "Good Morning",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 64160,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "141",
+                            "title": "It’s Nearly Playtime",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 135880,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "143",
+                            "title": "Sing A Round",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 112130,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "144",
+                            "title": "Sing Anyway",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 154310,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "145",
+                            "title": "New Day Blues",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 137950,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "146",
+                            "title": "Sun Arise",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 214470,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "147",
+                            "title": "Take A Major Scale",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 98090,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "279",
+                            "title": "School Is Nearly Over",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 99230,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "467",
+                            "title": "If You Can Walk, You Can Dance",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 126850,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "468",
+                            "title": "We’re Here Again",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 175810,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "469",
+                            "title": "I Have A Song To Sing",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 189360,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "470",
+                            "title": "Take 5 Styles",
+                            "author": "Mark and Helen Johnson",
+                            "age": "7-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 206350,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "471",
+                            "title": "Thank You Lord",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 182750,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "472",
+                            "title": "We Are One",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 168950,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}

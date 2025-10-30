@@ -1,0 +1,2919 @@
+{
+    "data": {
+        "song": {
+            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+            "id": "152",
+            "tempo": 128,
+            "infoName": "It’s Good To Be Me!",
+            "infoNameExtractable": "Its Good To Be Me!",
+            "infoAuthor": "Mark and Helen Johnson",
+            "infoCopyright": "© 2011 & 2015 Out of the Ark Ltd",
+            "infoCopyrightFormatted": "© 2011 & 2015 Out of the Ark Ltd",
+            "infoCCLI": "6023227",
+            "infoAge": "5-11",
+            "infoCategory": "Assembly",
+            "keywords": "",
+            "overrideButtonInfo": "Music Activity",
+            "overrideButtonLyrics": "",
+            "overrideButtonScore": "",
+            "showButtonExtract": true,
+            "showButtonInfo": true,
+            "showButtonLyrics": true,
+            "showButtonScore": true,
+            "styleBodyFont": "BlueMix",
+            "styleBodyLeading": 4,
+            "styleBodySize": 36,
+            "styleTitleCol": "000000",
+            "styleTitleFont": "BlueMix",
+            "styleTitleSize": 60,
+            "styleCol1Highlighted": "DF005A",
+            "styleCol1Unhighlighted": "000000",
+            "styleCol2Highlighted": "00CC33",
+            "styleCol2Unhighlighted": "000000",
+            "styleCol3Highlighted": "000000",
+            "styleCol3Unhighlighted": "000000",
+            "styleCol4Highlighted": "DD0000",
+            "styleCol4Unhighlighted": "000000",
+            "styleCol5Highlighted": "DF005A",
+            "styleCol5Unhighlighted": "000000",
+            "styleMarginLeft": 60,
+            "styleMarginRight": 60,
+            "styleMarginTop": 40,
+            "styleMarginBottom": 40,
+            "fileBackground": null,
+            "fileBackgroundMD5": "",
+            "fileBackgroundSize": 0,
+            "fileLarge": "https://www.outoftheark.co.uk/library/songs/larges/2/_3A_2C34R7S8Q_2C3_2CU.3_40T-S4U.6XU_3BS0Y_2C_23_29N_2CW_28_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+            "fileLargeMD5": "34ec143145fa6df27dcbc5cf68432850",
+            "fileLargeSize": 384663,
+            "fileInfo": "songs/info/2/_3A_2C34R7S0R_2CC0T.3DU_2CS4U.7_28S_3CS_3CQ.7_28X_3CS_60_60_0A_60_0A.pdf",
+            "fileInfoMD5": "40aecafb698fc74e8eababa99eee2a3a",
+            "fileInfoSize": 399688,
+            "fileLyrics": "songs/lyrics/2/_3A_2C34R7S_2CQ.3_2CP_2C_23_24P-34U.7_28U_2CVXP._23_25R_3C7_60_60_0A_60_0A.pdf",
+            "fileLyricsMD5": "a591f2efe0e485055ca2c972b35a1e31",
+            "fileLyricsSize": 90238,
+            "fileScore": "songs/scores/2/_3B_2C34R7S_24S._23_40S_2CC_2CW-C_2CU-3ER_2CW_2CW_2C6XR_3BC_21P_0A_60_0A.pdf",
+            "fileScoreMD5": "52b7a0b78ea962b27000a5d7e7218903",
+            "fileScoreSize": 138249,
+            "title": "It’s Good To Be Me!",
+            "author": "Mark and Helen Johnson",
+            "lyrics": "https://www.outoftheark.co.uk/library/songs/lyrics/2/_3A_2C34R7S_2CQ.3_2CP_2C_23_24P-34U.7_28U_2CVXP._23_25R_3C7_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+            "score": "https://www.outoftheark.co.uk/library/songs/scores/2/_3B_2C34R7S_24S._23_40S_2CC_2CW-C_2CU-3ER_2CW_2CW_2C6XR_3BC_21P_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+            "age": "5-11",
+            "videoUrl": "",
+            "videoTitle": "",
+            "summary": "<p>A feel-good, fun and contagious song in a soft-rock style, this is destined to become an invaluable teaching tool and a firm favourite &ndash; it&rsquo;s a real Mark and Helen classic! It tackles crucial issues of self-acceptance and avoiding comparisons. The song concludes with the verse and chorus sung at the same time: <em>&lsquo;It&rsquo;s great to be different but together!&rsquo;</em></p>",
+            "teachingTips": "<ul>\n\t<li>Watch the rising pitch in the verses on the words <em>&lsquo;together&rsquo;</em> and <em>&lsquo;wherever&rsquo;</em> to make sure that everyone is using their listening skills to hit the right notes accurately.</li>\n\t<li>When learning the song add some claps during the rests in the chorus such as: <em>&lsquo;But if I try (clap, clap) to compare myself with you (clap, clap)&rsquo;</em> and <em>&lsquo;I&rsquo;ll never see (clap, clap)&rsquo;.</em> Then, take the claps away and get the children to use their &lsquo;thinking voices&rsquo; instead.</li>\n\t<li>There are some fantastic syncopated rhythms in both the verse and the chorus that sound great when sung crisply, especially when the chorus and verse are sung together at the end. Get the children to really accentuate those offbeat rhythms and use their bodies to get into the groove.</li>\n</ul>",
+            "instrumentalResource": null,
+            "songSummaryMedia": "[]",
+            "teachingTipsMedia": "[]",
+            "assemblyPlans": [
+                {
+                    "id": "67",
+                    "name": "Growing Up and Moving On",
+                    "slug": "growing-up-and-moving-on",
+                    "assembly": {
+                        "id": "39",
+                        "title": "The Lead-up to Leaving Pack",
+                        "description": "Three teacher-led assemblies, designed to be delivered in the weeks leading up to the end of term.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "68",
+                    "name": "Trusting God",
+                    "slug": "trusting-god",
+                    "assembly": {
+                        "id": "39",
+                        "title": "The Lead-up to Leaving Pack",
+                        "description": "Three teacher-led assemblies, designed to be delivered in the weeks leading up to the end of term.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "69",
+                    "name": "Changing and Moving On",
+                    "slug": "changing-and-moving-on",
+                    "assembly": {
+                        "id": "39",
+                        "title": "The Lead-up to Leaving Pack",
+                        "description": "Three teacher-led assemblies, designed to be delivered in the weeks leading up to the end of term.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "70",
+                    "name": "Remember & Celebrate!",
+                    "slug": "remember-celebrate",
+                    "assembly": {
+                        "id": "40",
+                        "title": "Remember & Celebrate!",
+                        "description": "A celebratory assembly that offers opportunities for the leaving children to share, and hold on to, memories of their time at primary school.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                },
+                {
+                    "id": "103",
+                    "name": "Assembly 1 (The ‘It’s Good To Be Me’ Pack)",
+                    "slug": "assembly-1-the-its-good-to-be-me-pack",
+                    "assembly": {
+                        "id": "73",
+                        "title": "The ‘It’s Good To Be Me’ Pack",
+                        "description": "These FIVE assemblies celebrate the wonder of being human and the value of being ‘me’. Based on the animation above and the song below, the assemblies unpack themes such as understanding that God sees our potential, looking beyond appearances and learning to be a good role model.",
+                        "__typename": "Assembly"
+                    },
+                    "__typename": "AssemblyPlan"
+                }
+            ],
+            "userCollections": [],
+            "clouds": [
+                {
+                    "id": "498",
+                    "filename": "https://www.outoftheark.co.uk/library/clouds/8/_3A-_23DX7S_2CY.38W-3_40U.34U.6XU_3BS0Y_2C_235N_2C_230_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                    "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                    "filename_size": 17272,
+                    "__typename": "Cloud"
+                }
+            ],
+            "pages": [
+                {
+                    "id": "47395",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": true,
+                    "showPageFooter": true,
+                    "millisecondsStart": 0,
+                    "millisecondsStop": 22152,
+                    "styleBodyLeading": 1,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "61171",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25457",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29443",
+                                            "content": "1",
+                                            "milliseconds": 5077,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "29444",
+                                            "content": "2",
+                                            "milliseconds": 5529,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "29445",
+                                            "content": "3",
+                                            "milliseconds": 5960,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "29446",
+                                            "content": "4",
+                                            "milliseconds": 6438,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "29447",
+                                            "content": "|",
+                                            "milliseconds": 0,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "29448",
+                                            "content": "1",
+                                            "milliseconds": 6938,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        },
+                                        {
+                                            "id": "29449",
+                                            "content": "2",
+                                            "milliseconds": 7384,
+                                            "hide": 7616,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "61172",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25458",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29450",
+                                            "content": "It’s <large>good</large> to <large>be me,</large>",
+                                            "milliseconds": 7617,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25459",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29451",
+                                            "content": "It’s <large>good</large> to <large>know you,</large>",
+                                            "milliseconds": 9444,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25460",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29452",
+                                            "content": "It’s great to be<large> different but together.</large>",
+                                            "milliseconds": 11303,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25461",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29453",
+                                            "content": "There’s <large>no need to be</large>",
+                                            "milliseconds": 15108,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25462",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29454",
+                                            "content": "In<large> anyone’s shoes,</large>",
+                                            "milliseconds": 16937,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25463",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29455",
+                                            "content": "I’m<large> happy</large> to be the <large>‘me’ I am!</large>",
+                                            "milliseconds": 18837,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25464",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29456",
+                                            "content": "(Repeat)",
+                                            "milliseconds": 22298,
+                                            "hide": 22298,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47396",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 22298,
+                    "millisecondsStop": 37165,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "61173",
+                            "infoName": "1.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 80,
+                            "lines": [
+                                {
+                                    "id": "25465",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29457",
+                                            "content": "It’s <large>good</large> to <large>be me,</large>",
+                                            "milliseconds": 22551,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25466",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29458",
+                                            "content": "It’s <large>good</large> to <large>know you,</large>",
+                                            "milliseconds": 24441,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25467",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29459",
+                                            "content": "It’s great to be<large> different but together.</large>",
+                                            "milliseconds": 26308,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25468",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29460",
+                                            "content": "There’s <large>no need to be</large>",
+                                            "milliseconds": 30113,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25469",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29461",
+                                            "content": "In<large> anyone’s shoes,</large>",
+                                            "milliseconds": 31967,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25470",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29462",
+                                            "content": "I’m <large>happy</large> to be the <large>‘me’ I am!</large>",
+                                            "milliseconds": 33858,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47397",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 37316,
+                    "millisecondsStop": 52343,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "498",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/8/_3A-_23DX7S_2CY.38W-3_40U.34U.6XU_3BS0Y_2C_235N_2C_230_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                            "filename_size": 17272,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "61174",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "25471",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29463",
+                                            "content": "But if I try to<large> compare myself</large> with <large>you</large>",
+                                            "milliseconds": 38051,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25472",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29464",
+                                            "content": "And all the <large>things you do,</large>",
+                                            "milliseconds": 43655,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25473",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29465",
+                                            "content": "I’ll<large> never see </large>all the <large>qualities</large>",
+                                            "milliseconds": 45534,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25474",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29466",
+                                            "content": "That make me the <large>‘me’ I am!</large>",
+                                            "milliseconds": 49262,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25475",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29467",
+                                            "content": "(Repeat)",
+                                            "milliseconds": 52615,
+                                            "hide": 52615,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47398",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 52615,
+                    "millisecondsStop": 67284,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "498",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/8/_3A-_23DX7S_2CY.38W-3_40U.34U.6XU_3BS0Y_2C_235N_2C_230_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                            "filename_size": 17272,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "61175",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "25476",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29468",
+                                            "content": "But if I try to<large> compare myself</large> with <large>you</large>",
+                                            "milliseconds": 53057,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25477",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29469",
+                                            "content": "And all the <large>things you do,</large>",
+                                            "milliseconds": 58655,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25478",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29470",
+                                            "content": "I’ll<large> never see </large>all the <large>qualities</large>",
+                                            "milliseconds": 60500,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25479",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29471",
+                                            "content": "That make me the <large>‘me’ I am!</large>",
+                                            "milliseconds": 64264,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47399",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 67454,
+                    "millisecondsStop": 82134,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "61176",
+                            "infoName": "2.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 80,
+                            "lines": [
+                                {
+                                    "id": "25480",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29472",
+                                            "content": "It’s <large>good</large> to <large>be me,</large>",
+                                            "milliseconds": 67589,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25481",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29473",
+                                            "content": "<large>Whatever I do,</large>",
+                                            "milliseconds": 69434,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25482",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29474",
+                                            "content": "I’m free to be <large>who I am wherever.</large>",
+                                            "milliseconds": 71347,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25483",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29475",
+                                            "content": "With <large>all</large> of my <large>faults</large>",
+                                            "milliseconds": 75093,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25484",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29476",
+                                            "content": "(And there’ll <large>be a few!)</large>",
+                                            "milliseconds": 76972,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25485",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29477",
+                                            "content": "I’m <large>happy</large> to be the <large>‘me’ I am!</large>",
+                                            "milliseconds": 78817,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47400",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 82289,
+                    "millisecondsStop": 97400,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": 120,
+                    "cloudPosY": 60,
+                    "clouds": [
+                        {
+                            "id": "498",
+                            "filename": "https://www.outoftheark.co.uk/library/clouds/8/_3A-_23DX7S_2CY.38W-3_40U.34U.6XU_3BS0Y_2C_235N_2C_230_60_0A_60_0A.png?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "filename_md5": "9ef9ddac72345e8a45e662d5dada59e5",
+                            "filename_size": 17272,
+                            "__typename": "Cloud"
+                        }
+                    ],
+                    "groups": [
+                        {
+                            "id": "61177",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 120,
+                            "lines": [
+                                {
+                                    "id": "25486",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29478",
+                                            "content": "But if I try to<large> compare myself</large> with <large>you</large>",
+                                            "milliseconds": 83092,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25487",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29479",
+                                            "content": "And all the <large>things you do,</large>",
+                                            "milliseconds": 88649,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25488",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29480",
+                                            "content": "I’ll<large> never see </large>all the <large>qualities</large>",
+                                            "milliseconds": 90528,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25489",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29481",
+                                            "content": "That make me the <large>‘me’ I am!</large>",
+                                            "milliseconds": 94256,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47401",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 97456,
+                    "millisecondsStop": 112409,
+                    "styleBodyLeading": 1,
+                    "styleBodySize": 30,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "61178",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25490",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29482",
+                                            "content": "<italic><small>(Sing parts together)</small></italic>",
+                                            "milliseconds": 98088,
+                                            "hide": 112460,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "61179",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25491",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29483",
+                                            "content": "It’s<large> good</large> to <large>be me,</large>",
+                                            "milliseconds": 97587,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25492",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29484",
+                                            "content": "It’s <large>good</large> to <large>know you,</large>",
+                                            "milliseconds": 99471,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25493",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29485",
+                                            "content": "It’s great to be <large>different but together.</large>",
+                                            "milliseconds": 101287,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25494",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29486",
+                                            "content": "There’s<large> no need to be</large>",
+                                            "milliseconds": 105057,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25495",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29487",
+                                            "content": "In <large>anyone’s shoes,</large>",
+                                            "milliseconds": 106992,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25496",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29488",
+                                            "content": "I’m <large>happy</large> to be the <large>‘me’ I am!</large>",
+                                            "milliseconds": 108809,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "61180",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25497",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29489",
+                                            "content": "But if I try to <large>compare myself</large> with <large>you</large>",
+                                            "milliseconds": 98088,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25498",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29490",
+                                            "content": "And all the<large> things you do,</large>",
+                                            "milliseconds": 103641,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25499",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29491",
+                                            "content": "I’ll <large>never see </large>all the<large> qualities</large>",
+                                            "milliseconds": 105508,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25500",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29492",
+                                            "content": "That make me the <large>‘me’ I am!</large>",
+                                            "milliseconds": 109236,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47402",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 112460,
+                    "millisecondsStop": 127257,
+                    "styleBodyLeading": 1,
+                    "styleBodySize": 30,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "61181",
+                            "infoName": " ",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 3,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25501",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29493",
+                                            "content": "<italic><small>(Sing parts together)</small></italic>",
+                                            "milliseconds": 0,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "61182",
+                            "infoName": "Group 1:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25502",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29494",
+                                            "content": "But if I try to <large>compare myself</large> with <large>you</large>",
+                                            "milliseconds": 113158,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25503",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29495",
+                                            "content": "And all the<large> things you do,</large>",
+                                            "milliseconds": 118670,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25504",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29496",
+                                            "content": "I’ll <large>never see </large>all the<large> qualities</large>",
+                                            "milliseconds": 120466,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25505",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29497",
+                                            "content": "That make me the <large>‘me’ I am!</large>",
+                                            "milliseconds": 124263,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        },
+                        {
+                            "id": "61183",
+                            "infoName": "Group 2:",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 2,
+                            "stylePadding": 0,
+                            "lines": [
+                                {
+                                    "id": "25506",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29498",
+                                            "content": "It’s<large> good</large> to <large>be me,</large>",
+                                            "milliseconds": 112689,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25507",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29499",
+                                            "content": "<large>Whatever I do,</large>",
+                                            "milliseconds": 114545,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25508",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29500",
+                                            "content": "I’m free to be <large>who I am wherever.</large>",
+                                            "milliseconds": 116328,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25509",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29501",
+                                            "content": "With<large> all </large>of my <large>faults</large>",
+                                            "milliseconds": 120058,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25510",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29502",
+                                            "content": "(And there’ll <large>be a few!)</large>",
+                                            "milliseconds": 121959,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25511",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29503",
+                                            "content": "I’m <large>happy</large> to be the <large>‘me’ I am!</large>",
+                                            "milliseconds": 123820,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                },
+                {
+                    "id": "47403",
+                    "infoHeader": "",
+                    "infoHeaderBasicOverride": "",
+                    "infoFooter1": "",
+                    "infoFooter2": "",
+                    "showPageHeader": false,
+                    "showPageFooter": false,
+                    "millisecondsStart": 127519,
+                    "millisecondsStop": 142040,
+                    "styleBodyLeading": 0,
+                    "styleBodySize": 0,
+                    "cloudPosX": -1,
+                    "cloudPosY": -1,
+                    "clouds": [],
+                    "groups": [
+                        {
+                            "id": "61184",
+                            "infoName": "5.",
+                            "styleGroupIndex": 1,
+                            "styleGroupCol": "unhighlighted",
+                            "styleColIndex": 1,
+                            "stylePadding": 80,
+                            "lines": [
+                                {
+                                    "id": "25512",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29504",
+                                            "content": "It’s <large>good</large> to <large>be me,</large>",
+                                            "milliseconds": 127607,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25513",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29505",
+                                            "content": "<large>Whatever I do,</large>",
+                                            "milliseconds": 129454,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25514",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29506",
+                                            "content": "I’m free to be <large>who I am wherever.</large>",
+                                            "milliseconds": 131344,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25515",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29507",
+                                            "content": "With <large>all</large> of my <large>faults</large>",
+                                            "milliseconds": 135057,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25516",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29508",
+                                            "content": "(And there’ll <large>be a few!)</large>",
+                                            "milliseconds": 136964,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                },
+                                {
+                                    "id": "25517",
+                                    "splitLineNumber": 0,
+                                    "phrases": [
+                                        {
+                                            "id": "29509",
+                                            "content": "I’m <large>happy</large> to be the <large>‘me’ I am!</large>",
+                                            "milliseconds": 138856,
+                                            "hide": 0,
+                                            "isClickable": true,
+                                            "isHighlightable": true,
+                                            "splitLineNumber": 0,
+                                            "__typename": "Phrase"
+                                        }
+                                    ],
+                                    "__typename": "Line"
+                                }
+                            ],
+                            "__typename": "Group"
+                        }
+                    ],
+                    "__typename": "Page"
+                }
+            ],
+            "audios": [
+                {
+                    "id": "293",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2011\",\"album\":\"Songs for Every Happy, Healthy School\",\"track\":\"2\",\"TBPM\":\"\"}",
+                    "duration": 147640,
+                    "isDefault": true,
+                    "isExtractable": true,
+                    "type": "vocal_instrumental",
+                    "tempo": 128,
+                    "infoName": "Vocal",
+                    "infoNameExtractable": "Vocal",
+                    "infoArtist": "Mark & Helen Johnson",
+                    "infoCopyright": "2011 & 2012 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN1100096",
+                    "millisecondsLength": 147640,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/8/_3C_2CC4X_2C3A_3F_2C3_60S-3_3CX-34R-7_25P_2C_27_2CY-3_60Y._27_24S_3B_40_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/9/_3D_2CC4X_2C3E_3F_2C3DW-_23_60R_2C_23_3CV-C5Q_3C_23_21S.34T-3_40Y-6X_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "3bedf6db92e7bb72e7ad6dab1ec5574e",
+                        "ogg": "e0b5c6d1ac28de5fad0ec2198257f0d8",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3545077",
+                        "ogg": "2053645",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                },
+                {
+                    "id": "294",
+                    "metadata": "{\"title\":\"\",\"artist\":\"Out of the Ark Music\",\"composer\":\"Mark and Helen Johnson\",\"genre\":\"Children's Music\",\"date\":\"2011\",\"album\":\"Songs for Every Happy, Healthy School\",\"track\":\"17\",\"TBPM\":\"\"}",
+                    "duration": 147630,
+                    "isDefault": false,
+                    "isExtractable": true,
+                    "type": "instrumental",
+                    "tempo": 128,
+                    "infoName": "Instrumental",
+                    "infoNameExtractable": "Instrumental",
+                    "infoArtist": "Mark & Helen Johnson",
+                    "infoCopyright": "2011 & 2012 Out of the Ark Ltd",
+                    "infoISRC": "GBDNN1100111",
+                    "millisecondsLength": 147630,
+                    "files": {
+                        "mp3": "https://www.outoftheark.co.uk/library/audios/files/1/_3C_2CC4X_2CC_25_3F-3_40S.3_40U-S_28W-7_25P_2C_27_2CY-3DU_3CC8Q-0_60_60_0A_60_0A.mp3?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                        "ogg": "https://www.outoftheark.co.uk/library/audios/files/2/_3C_2CC4X_2CC_29_3F-_23_2CT-C_60R_2CS_2CY-7_25P_2C_27_2CY-7_24R-S_40V_3C_60_60_60_0A_60_0A.ogg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                        "__typename": "AudioFile"
+                    },
+                    "file_md5s": {
+                        "mp3": "716126b56476a16fa041ba61e0b086d4",
+                        "ogg": "75e4e687b7f9fe48048c3d0b0392af8b",
+                        "__typename": "AudioFile"
+                    },
+                    "file_sizes": {
+                        "mp3": "3545078",
+                        "ogg": "2065201",
+                        "__typename": "AudioFile"
+                    },
+                    "__typename": "Audio"
+                }
+            ],
+            "songTags": [
+                {
+                    "id": "1131",
+                    "type": "Key Stage",
+                    "formattedName": "KS1 & KS2",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1535",
+                    "type": "Vocal Range",
+                    "formattedName": "C-Db",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1189",
+                    "type": "Vocal Range Description",
+                    "formattedName": "Medium",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1193",
+                    "type": "Time Signature",
+                    "formattedName": "4/4",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1219",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Syncopation",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1257",
+                    "type": "Musical Style",
+                    "formattedName": "Upbeat",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1419",
+                    "type": "Curriculum Subject Links",
+                    "formattedName": "PSHE",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1134",
+                    "type": "Song Type",
+                    "formattedName": "Layered Song",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1148",
+                    "type": "Starting Key",
+                    "formattedName": "Ab Major",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1281",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Assembly",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1286",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Concerts/Performance",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1307",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Thankfulness",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1502",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Growth Mindset",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1407",
+                    "type": "Seasonal",
+                    "formattedName": "All Year",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1597",
+                    "type": "Topic/Theme",
+                    "formattedName": "Individuality",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1496",
+                    "type": "Tempo Description",
+                    "formattedName": "Moderate",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1648",
+                    "type": "Other Musical Elements",
+                    "formattedName": "Group Singing",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1640",
+                    "type": "Values (PSHE, SMSC)",
+                    "formattedName": "Confidence",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1362",
+                    "type": "Topic/Theme",
+                    "formattedName": "Positivity",
+                    "__typename": "Tag"
+                },
+                {
+                    "id": "1935",
+                    "type": "OOTA Singing School",
+                    "formattedName": "Wellbeing",
+                    "__typename": "Tag"
+                }
+            ],
+            "resources": [
+                {
+                    "id": "435",
+                    "slug": "use-lyrical-phrases-and-dynamics-with-call-and-response-rhythms",
+                    "title": "Use Lyrical Phrases And Dynamics With Call-And-Response Rhythms",
+                    "privateTitle": "Use Lyrical Phrases And Dynamics With Call-And-Response Rhythms",
+                    "content": "[{\"key\":\"f117cf18f7c132af\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<ul>\\n\\t<li>To begin to define and use a range of dynamics while playing instruments<\\/li>\\n\\t<li>To play accurate rhythms in time as an ensemble<\\/li>\\n<\\/ul>\\n\",\"title\":\"What\\u2019s achievable\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/green-star-1614702483w2iKm.png\"}},{\"key\":\"23899d042db91ef1\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Large space; untuned percussion instruments<\\/p>\\n\",\"title\":\"What you need\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/blue-wrench-16147025258WedI.png\"}},{\"key\":\"1f6f6afee068734d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Use the lyrical phrases from <em>It&rsquo;s Good To Be Me!&nbsp;<\\/em>to <strong>play some call-and-response rhythms<\\/strong> on untuned percussion instruments.<\\/p>\\n\\n<p>Making sure each child has an instrument, divide them into two groups sitting opposite each other. Using the rhythms from each line of lyrics in the verse, play the instruments to create a rhythmic, call-and-response version of the song (so, group one plays <em>&lsquo;It&rsquo;s good to be me&rsquo;<\\/em> and group two responds with <em>&lsquo;It&rsquo;s good to know you&rsquo;<\\/em> etc.).<\\/p>\\n\\n<p>Sit the groups a fair distance apart and ask them to <strong>play with different dynamics<\\/strong>. The &lsquo;response&rsquo; group will have to listen carefully to determine whether the &lsquo;call&rsquo; is quiet or loud and respond at a similar dynamic.<\\/p>\\n\\n<p>Finally, divide into three groups assigning group one the chorus rhythm, group two the verse rhythm and group three a steady pulse. Just like the group-singing section of the song, play altogether (first while speaking the lyrics to help with the rhythms, then without). How accurately can the groups play together?<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"70e730860f4926e2\",\"layout\":\"icon-bullet\",\"attributes\":{\"body\":\"<p>Get the children working in pairs to create their own call-and-response rhythms with their instruments to perform to the whole class.<\\/p>\\n\",\"title\":\"Step It Up!\",\"noMargin\":false,\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/icons\\/u1873-1614695091mFFrP.png\"}}]",
+                    "active": true,
+                    "summary": "<div>Play call-and-response rhythms on instruments in groups using different dynamics to develop playing together as an ensemble accurately.&nbsp;</div>",
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1417",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Music",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1713",
+                            "type": "Music Checklist",
+                            "formattedName": "Rhythm",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1715",
+                            "type": "Music Checklist",
+                            "formattedName": "Texture",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1716",
+                            "type": "Music Checklist",
+                            "formattedName": "Dynamics",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1734",
+                            "type": "Music Checklist",
+                            "formattedName": "Structure",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1707",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Listen",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1705",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Play",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1706",
+                            "type": "National Music Curriculum descriptor",
+                            "formattedName": "Sing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1718",
+                            "type": "Age Range",
+                            "formattedName": "7-11",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1634",
+                            "type": "Music activity Size and Scale",
+                            "formattedName": "*",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "3",
+                        "name": "Music Activity",
+                        "color": "#3982BA",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1973",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-leavers-1654685800hQGUe.png",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "436",
+                    "slug": "create-a-big-picture-puzzle",
+                    "title": "Create A ‘Big Picture’ Puzzle",
+                    "privateTitle": "Create A ‘Big Picture’ Puzzle",
+                    "content": "[{\"key\":\"c1f71e821c673445\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p><strong>Create a large puzzle template<\\/strong> from stiff cardboard and distribute the different pieces<br \\/>\\nto each child in the class. Get everyone to design and decorate their piece showing exactly what is unique about them. Put the puzzle together to show how they individually fit together in the &lsquo;big picture&rsquo;.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1638",
+                            "type": "Values (PSHE, SMSC)",
+                            "formattedName": "Belonging",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1597",
+                            "type": "Topic/Theme",
+                            "formattedName": "Individuality",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1625",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Art",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1626",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Design & Technology",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "11",
+                        "name": "Creative Ideas",
+                        "color": "#F5BB26",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1973",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-leavers-1654685800hQGUe.png",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "437",
+                    "slug": "my-unique-tongue-twister",
+                    "title": "My Unique Tongue Twister",
+                    "privateTitle": "My Unique Tongue Twister",
+                    "content": "[{\"key\":\"126ff99223c61d28\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Get the children to <strong>create their own tongue twisters<\\/strong> using the first letter of their name. All the words in their sentence should be alliterative such as: Alex always asks about aeroplanes or Molly made a magic monkey.<\\/p>\\n\\n<p>List all the sentences on a poster to create a tongue-twisting classroom poster and try speaking them all together.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "7-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1412",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "English",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1571",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Literacy",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1718",
+                            "type": "Age Range",
+                            "formattedName": "7-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1973",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-leavers-1654685800hQGUe.png",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "438",
+                    "slug": "mood-boards",
+                    "title": "Mood Boards",
+                    "privateTitle": "Mood Boards",
+                    "content": "[{\"key\":\"ee75069f28dee1b7\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Collect a good supply of colourful magazines and have the children cut out any pictures, words or symbols that represent things they enjoy doing or that they own, places they have been, people they admire, etc. Each child creates a collage with these, writing their name secretly on the back. Then have the rest of the class see if they can guess whose mood board is whose.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": "5-11",
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": null,
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1597",
+                            "type": "Topic/Theme",
+                            "formattedName": "Individuality",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1625",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "Art",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1711",
+                            "type": "Age Range",
+                            "formattedName": "5-11",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "5",
+                        "name": "Curriculum Link",
+                        "color": "#8DC261",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1973",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-leavers-1654685800hQGUe.png",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "1761",
+                    "slug": "singing-the-key-ingredient-for-a-positive-classroom",
+                    "title": "Singing - The Key Ingredient For A Positive Classroom",
+                    "privateTitle": "Singing - The Key Ingredient For A Positive Classroom",
+                    "content": "[{\"key\":\"ed22acf395af76c9\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/NewSparks\\/headerimages\\/singing-blogheader-v1-16826748769DLs7.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"2fb5561497a1a38d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Here at Out of the Ark we have always believed in the power of singing to make a difference and enhance wellbeing. Here are a few of the reasons why...<\\/p>\\n\\n<ul>\\n\\t<li>Singing lowers cortisol and produces oxytocin, which relieves stress and tension. It also boosts confidence through the release of endorphins. So,&nbsp;<strong>singing makes you happy<\\/strong>!<\\/li>\\n\\t<li>Singing is a<strong> mindful activity<\\/strong>,&nbsp;allowing us to live in the moment.<\\/li>\\n\\t<li>Singing together as a group creates a&nbsp;<strong>strong sense of community and togetherness<\\/strong>.&nbsp;It also provides an unthreatening way of expressing emotion.<\\/li>\\n\\t<li>The act of learning a new skill, improving and being part of a group also helps to<strong>&nbsp;influence your confidence and self-esteem<\\/strong>.<\\/li>\\n\\t<li>Singing improves <strong>breathing<\\/strong> and strengthens the<strong> immune system<\\/strong>.<\\/li>\\n<\\/ul>\\n\\n<p>We also know that Out of the Ark songs are key ingredients in creating a positive classroom environment, where everyone feels valued.&nbsp;Adding songs to your school day will not only get everyone in the right frame of mind for learning but will boost pupil wellbeing and instil positivity.<\\/p>\\n\\n<p>Unleash the power of songs in your classroom!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"6fe243b364d38405\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs promote self-confidence\",\"background_color\":\"#6FB843\"}},{\"key\":\"7e16c22fece76e54\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Songs such as <em>I&rsquo;m OK!<\\/em> and <em>It&rsquo;s Good To Be Me!<\\/em> promote self-acceptance and a sense of personal value. Display some of the positive phrases from the songs around the classroom as a healthy reminder.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"1a5098f6c575b3bd\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs boost energy!\",\"background_color\":\"#93699F\"}},{\"key\":\"45920363d13f2ce2\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>A short, sharp burst of singing in the morning eases the transition from home to school and gets everyone ready to embrace the events and challenges of a day. <em>Today Is The Start<\\/em> and <em>Give It All You&rsquo;ve Got <\\/em>are fabulous feel-good songs, brimming with energy and enthusiasm! &nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"ce116e0695a83448\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs are motivational!\",\"background_color\":\"#F5BB26\"}},{\"key\":\"309099bbdc7facbe\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Setting goals and preparing children for upcoming challenges is part of life, and songs can teach children about the power of perseverance. <em>Every Journey<\\/em> and <em>If You Can Walk, You Can Dance<\\/em> are great ones to try.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"47610b4121993e8b\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs promote team spirit \",\"background_color\":\"#E15B64\"}},{\"key\":\"0a3fa3f9a2e3b3c9\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Singing as a group is a social activity, which relies on each individual working with their peers towards a cooperative outcome. Simply singing songs together will help children develop these important skills. To boost the learning further, why not choose songs that highlight the importance of working and getting along together? <em>Life Is Just Like A Song<\\/em>, <em>Different Drums<\\/em> and <em>Ubuntu <\\/em>are perfect choices.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"1b46c689e896ff5d\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs inspire mindfulness \",\"background_color\":\"#D166C7\"}},{\"key\":\"a47896560f3d3bde\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Look at this KS2 class having fun creating rhythmic patterns with plastic cups to the instrumental track of <em>Coordination Funk<\\/em>. Their verbal responses at the end of the clip highlight how music-making is a mindful activity,&nbsp;allowing us to live in the moment.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"289a7f16e83da3e7\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/vimeo.com\\/596596360\\/b457aead95\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"581ea804f41fe0c0\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs are familiar and supportive\",\"background_color\":\"#15A881\"}},{\"key\":\"992f735626f1be73\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Songs provide a safe framework where children can explore themes and worries they might be dealing with. Perhaps use them to introduce topics or to support class circle-time activities. Of course, songs are designed to be repeated and messages within songs can be shared again and again. Strengthening connections with home are also possible through the Sparkyard share-link feature. The songbook <em>This is Me<\\/em> is full of songs, poems and activities&nbsp;that support physical and mental wellbeing aspects of the National Curriculum.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"12dad84f0051fa90\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs celebrate achievement!\",\"background_color\":\"#3982BA\"}},{\"key\":\"2acab7279de00bc9\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Acknowledging class or individual achievement is a great self-esteem booster. Celebrate with a song such as <em>Fiesta <\\/em>or <em>Well Done<\\/em>. <em>Well Done<\\/em> can be sung to an individual child or a group.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"2d1d59f481883a69\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs are fun and memorable!\",\"background_color\":\"#8DC261\"}},{\"key\":\"d412a91a3c060519\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Songs make us feel good and the joy of school singing and music-making is something that children will remember for the rest of their lives. Laughter IS important, so enjoy singing something silly! <em>Knock, Knock! Who&rsquo;s There?<\\/em> and <em>Tickled Me Pink!<\\/em> are sure-fire winners.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": "https://assets.sparkyard.com/uploads/NewSparks/headerimages/singing-blogheader-v1-16826748769DLs7.png",
+                    "thumbnailText": "Here at Out of the Ark we have always believed in the power of singing to make a difference and enhance wellbeing. Here are a few of the reasons why...",
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1935",
+                            "type": "OOTA Singing School",
+                            "formattedName": "Wellbeing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1287",
+                            "type": "OOTA Singing School",
+                            "formattedName": "Curriculum",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "1",
+                        "name": "Guide",
+                        "color": null,
+                        "__typename": "Category"
+                    },
+                    "sparkles": [
+                        {
+                            "id": "19",
+                            "title": "“LIFE ISN’T ABOUT WAITING FOR THE STORM TO PASS... IT’S ABOUT LEARNING TO DANCE IN THE RAIN.”",
+                            "text": "<p>Vivian Greene</p>",
+                            "imageUrl": null,
+                            "backgroundColor": "#F27021",
+                            "__typename": "Sparkle"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "422",
+                            "title": "Give It All You’ve Got",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-assembly-cd-1626164417v3et6.jpg",
+                            "duration": 132510,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "423",
+                            "title": "Well Done! (Version A)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-assembly-cd-1626164417v3et6.jpg",
+                            "duration": 56230,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "428",
+                            "title": "I’m OK!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-body-cd-1626164420a9hTW.jpg",
+                            "duration": 183470,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "467",
+                            "title": "If You Can Walk, You Can Dance",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 126850,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "556",
+                            "title": "Ubuntu",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-warmups-cd-1626164459Zeej5.jpg",
+                            "duration": 75990,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "686",
+                            "title": "Life Is Just Like A Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-together-cd-1626164456qpO1e.jpg",
+                            "duration": 169720,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "738",
+                            "title": "Knock, Knock! Who’s There?",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-silly-c-1626164453qEgWq.jpg",
+                            "duration": 162680,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "744",
+                            "title": "Tickled Me Pink!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-silly-c-1626164453qEgWq.jpg",
+                            "duration": 144930,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "755",
+                            "title": "Coordination Funk",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-warmups-cd-1626164459Zeej5.jpg",
+                            "duration": 70920,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "986",
+                            "title": "Every Journey",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/herecomessummer-cd-1626164319Dz0hu.jpg",
+                            "duration": 183810,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1218",
+                            "title": "Different Drums",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-sensational-cd-1626164451sTxtY.jpg",
+                            "duration": 182070,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1482",
+                            "title": "Give It All You’ve Got (Praise Mix)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sc-celebrate-1672759673mQ7aL.jpg",
+                            "duration": 128530,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1599",
+                            "title": "Today Is The Start",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-celebration-cd-1632215703NQUyv.png",
+                            "duration": 79000,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1601",
+                            "title": "Fiesta",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-celebration-cd-1632215703NQUyv.png",
+                            "duration": 104770,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                },
+                {
+                    "id": "2216",
+                    "slug": "its-good-to-be-me-bsl-signing-video",
+                    "title": "It’s Good To Be Me! - BSL Signing Video",
+                    "privateTitle": "It’s Good To Be Me! - BSL Signing Video",
+                    "content": "[{\"key\":\"85b2b04e61331c2b\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/youtu.be\\/tkC6vI37Djc \",\"title\":\"SingSign - British Sign Language\",\"active\":true,\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": null,
+                    "thumbnailText": null,
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1407",
+                            "type": "Seasonal",
+                            "formattedName": "All Year",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1972",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "SEND",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "13",
+                        "name": "SEND Resource",
+                        "color": "#D8127D",
+                        "__typename": "Category"
+                    },
+                    "sparkles": [],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1973",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-leavers-1654685800hQGUe.png",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "sparkles": [
+                {
+                    "id": "31",
+                    "title": "“TODAY YOU ARE YOU, THAT IS TRUER THAN TRUE. THERE IS NO ONE ALIVE THAT IS YOUER THAN YOU.",
+                    "text": "<p>Dr. Seuss</p>",
+                    "imageUrl": null,
+                    "backgroundColor": "#D166C7",
+                    "__typename": "Sparkle"
+                }
+            ],
+            "recommendedResources": [
+                {
+                    "id": "1761",
+                    "slug": "singing-the-key-ingredient-for-a-positive-classroom",
+                    "title": "Singing - The Key Ingredient For A Positive Classroom",
+                    "privateTitle": "Singing - The Key Ingredient For A Positive Classroom",
+                    "content": "[{\"key\":\"ed22acf395af76c9\",\"layout\":\"image\",\"attributes\":{\"image\":\"https:\\/\\/assets.sparkyard.com\\/uploads\\/NewSparks\\/headerimages\\/singing-blogheader-v1-16826748769DLs7.png\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"2fb5561497a1a38d\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Here at Out of the Ark we have always believed in the power of singing to make a difference and enhance wellbeing. Here are a few of the reasons why...<\\/p>\\n\\n<ul>\\n\\t<li>Singing lowers cortisol and produces oxytocin, which relieves stress and tension. It also boosts confidence through the release of endorphins. So,&nbsp;<strong>singing makes you happy<\\/strong>!<\\/li>\\n\\t<li>Singing is a<strong> mindful activity<\\/strong>,&nbsp;allowing us to live in the moment.<\\/li>\\n\\t<li>Singing together as a group creates a&nbsp;<strong>strong sense of community and togetherness<\\/strong>.&nbsp;It also provides an unthreatening way of expressing emotion.<\\/li>\\n\\t<li>The act of learning a new skill, improving and being part of a group also helps to<strong>&nbsp;influence your confidence and self-esteem<\\/strong>.<\\/li>\\n\\t<li>Singing improves <strong>breathing<\\/strong> and strengthens the<strong> immune system<\\/strong>.<\\/li>\\n<\\/ul>\\n\\n<p>We also know that Out of the Ark songs are key ingredients in creating a positive classroom environment, where everyone feels valued.&nbsp;Adding songs to your school day will not only get everyone in the right frame of mind for learning but will boost pupil wellbeing and instil positivity.<\\/p>\\n\\n<p>Unleash the power of songs in your classroom!<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"6fe243b364d38405\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs promote self-confidence\",\"background_color\":\"#6FB843\"}},{\"key\":\"7e16c22fece76e54\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Songs such as <em>I&rsquo;m OK!<\\/em> and <em>It&rsquo;s Good To Be Me!<\\/em> promote self-acceptance and a sense of personal value. Display some of the positive phrases from the songs around the classroom as a healthy reminder.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"1a5098f6c575b3bd\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs boost energy!\",\"background_color\":\"#93699F\"}},{\"key\":\"45920363d13f2ce2\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>A short, sharp burst of singing in the morning eases the transition from home to school and gets everyone ready to embrace the events and challenges of a day. <em>Today Is The Start<\\/em> and <em>Give It All You&rsquo;ve Got <\\/em>are fabulous feel-good songs, brimming with energy and enthusiasm! &nbsp;<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"ce116e0695a83448\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs are motivational!\",\"background_color\":\"#F5BB26\"}},{\"key\":\"309099bbdc7facbe\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Setting goals and preparing children for upcoming challenges is part of life, and songs can teach children about the power of perseverance. <em>Every Journey<\\/em> and <em>If You Can Walk, You Can Dance<\\/em> are great ones to try.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"47610b4121993e8b\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs promote team spirit \",\"background_color\":\"#E15B64\"}},{\"key\":\"0a3fa3f9a2e3b3c9\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Singing as a group is a social activity, which relies on each individual working with their peers towards a cooperative outcome. Simply singing songs together will help children develop these important skills. To boost the learning further, why not choose songs that highlight the importance of working and getting along together? <em>Life Is Just Like A Song<\\/em>, <em>Different Drums<\\/em> and <em>Ubuntu <\\/em>are perfect choices.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"1b46c689e896ff5d\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs inspire mindfulness \",\"background_color\":\"#D166C7\"}},{\"key\":\"a47896560f3d3bde\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Look at this KS2 class having fun creating rhythmic patterns with plastic cups to the instrumental track of <em>Coordination Funk<\\/em>. Their verbal responses at the end of the clip highlight how music-making is a mindful activity,&nbsp;allowing us to live in the moment.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"289a7f16e83da3e7\",\"layout\":\"video\",\"attributes\":{\"url\":\"https:\\/\\/vimeo.com\\/596596360\\/b457aead95\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"581ea804f41fe0c0\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs are familiar and supportive\",\"background_color\":\"#15A881\"}},{\"key\":\"992f735626f1be73\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Songs provide a safe framework where children can explore themes and worries they might be dealing with. Perhaps use them to introduce topics or to support class circle-time activities. Of course, songs are designed to be repeated and messages within songs can be shared again and again. Strengthening connections with home are also possible through the Sparkyard share-link feature. The songbook <em>This is Me<\\/em> is full of songs, poems and activities&nbsp;that support physical and mental wellbeing aspects of the National Curriculum.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"12dad84f0051fa90\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs celebrate achievement!\",\"background_color\":\"#3982BA\"}},{\"key\":\"2acab7279de00bc9\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Acknowledging class or individual achievement is a great self-esteem booster. Celebrate with a song such as <em>Fiesta <\\/em>or <em>Well Done<\\/em>. <em>Well Done<\\/em> can be sung to an individual child or a group.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}},{\"key\":\"2d1d59f481883a69\",\"layout\":\"title-block\",\"attributes\":{\"title\":\"Songs are fun and memorable!\",\"background_color\":\"#8DC261\"}},{\"key\":\"d412a91a3c060519\",\"layout\":\"wysiwyg\",\"attributes\":{\"body\":\"<p>Songs make us feel good and the joy of school singing and music-making is something that children will remember for the rest of their lives. Laughter IS important, so enjoy singing something silly! <em>Knock, Knock! Who&rsquo;s There?<\\/em> and <em>Tickled Me Pink!<\\/em> are sure-fire winners.<\\/p>\\n\",\"title\":\"\",\"noMargin\":false}}]",
+                    "active": true,
+                    "summary": null,
+                    "ageRange": null,
+                    "thumbnail": "https://assets.sparkyard.com/uploads/NewSparks/headerimages/singing-blogheader-v1-16826748769DLs7.png",
+                    "thumbnailText": "Here at Out of the Ark we have always believed in the power of singing to make a difference and enhance wellbeing. Here are a few of the reasons why...",
+                    "downloadables": "[]",
+                    "href": null,
+                    "resourceTags": [
+                        {
+                            "id": "1935",
+                            "type": "OOTA Singing School",
+                            "formattedName": "Wellbeing",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1287",
+                            "type": "OOTA Singing School",
+                            "formattedName": "Curriculum",
+                            "__typename": "Tag"
+                        },
+                        {
+                            "id": "1419",
+                            "type": "Curriculum Subject Links",
+                            "formattedName": "PSHE",
+                            "__typename": "Tag"
+                        }
+                    ],
+                    "category": {
+                        "id": "1",
+                        "name": "Guide",
+                        "color": null,
+                        "__typename": "Category"
+                    },
+                    "sparkles": [
+                        {
+                            "id": "19",
+                            "title": "“LIFE ISN’T ABOUT WAITING FOR THE STORM TO PASS... IT’S ABOUT LEARNING TO DANCE IN THE RAIN.”",
+                            "text": "<p>Vivian Greene</p>",
+                            "imageUrl": null,
+                            "backgroundColor": "#F27021",
+                            "__typename": "Sparkle"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "422",
+                            "title": "Give It All You’ve Got",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-assembly-cd-1626164417v3et6.jpg",
+                            "duration": 132510,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "423",
+                            "title": "Well Done! (Version A)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-assembly-cd-1626164417v3et6.jpg",
+                            "duration": 56230,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "428",
+                            "title": "I’m OK!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-body-cd-1626164420a9hTW.jpg",
+                            "duration": 183470,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "467",
+                            "title": "If You Can Walk, You Can Dance",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 126850,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "556",
+                            "title": "Ubuntu",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-warmups-cd-1626164459Zeej5.jpg",
+                            "duration": 75990,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "686",
+                            "title": "Life Is Just Like A Song",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-together-cd-1626164456qpO1e.jpg",
+                            "duration": 169720,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "738",
+                            "title": "Knock, Knock! Who’s There?",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-silly-c-1626164453qEgWq.jpg",
+                            "duration": 162680,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "744",
+                            "title": "Tickled Me Pink!",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-silly-c-1626164453qEgWq.jpg",
+                            "duration": 144930,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "755",
+                            "title": "Coordination Funk",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-warmups-cd-1626164459Zeej5.jpg",
+                            "duration": 70920,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "986",
+                            "title": "Every Journey",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/herecomessummer-cd-1626164319Dz0hu.jpg",
+                            "duration": 183810,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1218",
+                            "title": "Different Drums",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-sensational-cd-1626164451sTxtY.jpg",
+                            "duration": 182070,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1482",
+                            "title": "Give It All You’ve Got (Praise Mix)",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sc-celebrate-1672759673mQ7aL.jpg",
+                            "duration": 128530,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1599",
+                            "title": "Today Is The Start",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-celebration-cd-1632215703NQUyv.png",
+                            "duration": 79000,
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "1601",
+                            "title": "Fiesta",
+                            "isFavourited": false,
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sing-celebration-cd-1632215703NQUyv.png",
+                            "duration": 104770,
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Resource"
+                }
+            ],
+            "esbTrack": {
+                "id": "373",
+                "esongbook": {
+                    "id": "28",
+                    "infoName": "The New Songs for EVERY... Sampler eSongbook",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": null,
+                    "imageFilename": "EVERY-Sampler_cover187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/8/8_2CCA_3F.30V_2C3_40X-S4U-C4V_3C39O.3_3DQ_2C_27_2CR_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/8/_3A_2CCA_3F_2C3_2CQ_2C3_24Q-_234T-_234V-39Q-F_5CY-W-R_2CVX_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                    "albumArt": null,
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": false,
+                    "resources": [
+                        {
+                            "id": "176",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/6/_3B_2C3_3CV7S_24U_2C30X-C_40Y_2C_23_24U-C4T-G_28T-G_28S_3BG_60V_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "pdfFileMd5": "1b333dcadf69ed4ab07eec551f06136c",
+                            "pdfFileSize": 2939707,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "178",
+                            "ordering": 2,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.com",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "142",
+                            "title": "Just Sing!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-singingschool-cd-16261644383cnhJ.jpg",
+                            "duration": 184880,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "427",
+                            "title": "As One",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-body-cd-1626164420a9hTW.jpg",
+                            "duration": 169520,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                },
+                "__typename": "EsbTrack"
+            },
+            "esongbooks": [
+                {
+                    "id": "6",
+                    "infoName": "Songs For EVERY Happy, Healthy School",
+                    "infoAuthor": "Mark and Helen Johnson",
+                    "seriesId": "1",
+                    "imageFilename": "SFE_HHS_cover-187x262.jpg",
+                    "imageFileOriginal": null,
+                    "imageFileLarge": "https://www.outoftheark.co.uk/library/esongbooks/large/6/9-E_5CQ_2C34P-C8Y_2CS_60R-34Y_3CC0Y_2C_26_5CX.30U_2CP_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                    "imageFileMedium": "https://www.outoftheark.co.uk/library/esongbooks/medium/6/9-E_5CQ.38S._23_60U_2C_238Y-34Y_3CC0Y_2C_26_5CX_3C_23_21R._60_60_60_0A_60_0A.jpg?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                    "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                    "infoCategory": "Song Collections",
+                    "linkToOota": false,
+                    "esongbookId": null,
+                    "excludeResources": true,
+                    "resources": [
+                        {
+                            "id": "36",
+                            "ordering": 7,
+                            "type": "link",
+                            "title": "Out of the Ark Website",
+                            "linkUrl": "http://www.outoftheark.com",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "57",
+                            "ordering": 1,
+                            "type": "pdf",
+                            "title": "Curriculum Links",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/7/9-3_3D_3F-3_24W-_23_28R_2CS_24V-35N-S_3CT_3CS4Q._23_2CY_2CP_60_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "pdfFileMd5": "b2384b130513aba47fd98a27e76fa3d5",
+                            "pdfFileSize": 11171240,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "59",
+                            "ordering": 3,
+                            "type": "pdf",
+                            "title": "Song Information",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/9/_3A-3E_3F_2CC_60W_2CS_28R.3_28R_2CC4U_3BC_3CW-3AN-3_3CX_2CS_24_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "pdfFileMd5": "4a8f574efb1308375489a4e7588fdd7b",
+                            "pdfFileSize": 248338,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "422",
+                            "ordering": 4,
+                            "type": "pdf",
+                            "title": "Glossary",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/2/_3A-_23_28R7S8X-S_2CP_2C3_40Q-_234X_2CG_2CR_3CW_28W._23_28R-S_40_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "pdfFileMd5": "0eb5a0594689ec34b958f441badc5efe",
+                            "pdfFileSize": 42295,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "423",
+                            "ordering": 2,
+                            "type": "pdf",
+                            "title": "Music Activities",
+                            "linkUrl": "",
+                            "pdfFile": "https://www.outoftheark.co.uk/library/resources/pdf/3/_3A-_23_28S7S_3CV-C_3CW_2CC_3CW._234X_2CG_2CS_2C_26XW-_238X_3BS4_60_0A_60_0A.pdf?access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpZCI6IjM5N2ZkNTE0ZmUwMWE5OWFjNDY0MThiZWI3N2Q2ZmRmNzFjN2E2MjAiLCJqdGkiOiIzOTdmZDUxNGZlMDFhOTlhYzQ2NDE4YmViNzdkNmZkZjcxYzdhNjIwIiwiaXNzIjoiIiwiYXVkIjoic3Bhcmt5YXJkX2xpdmVjbGllbnQwMSIsInN1YiI6MzcyMjE4LCJleHAiOjE3NjEwODI4ODYsImlhdCI6MTc2MTA4MTA4NiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjpudWxsfQ.FYtAr4GR4IFv29s_vArFXfBtRhZrUSyeUjXTDcLLu6_1p5Y6B2OLV8Lu4FDQF_xJmgHQbmqGrZTALNfPlKQX7VCqfw-NGHkmAdTLw_iCgzr77Wp8teWxXFTMqPOFLLEa4ocAHMUkG44j6hqGQtTZvLTGegB8J59OE4dr119yq9-F7Q7IM5N9dYjB2OwRkDzJvxxRVMF0820upp6lpoGff2YPU56_n5QG71VFq7pMj48Rhipl1gJjbAoyLVkfji1E27bK85HtIknc9BQaDgfbKUB1uoqn5mTXRPIVXUtSPb-H7D2CRjSMvixzR8Iqq8MMJI-Rk1-B0ii_9wz8CT5l9A",
+                            "pdfFileMd5": "5bec0c86e4532d4fbb3c5010befdec37",
+                            "pdfFileSize": 4053994,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1780",
+                            "ordering": 5,
+                            "type": "link",
+                            "title": "Signing Videos",
+                            "linkUrl": "https://www.outoftheark.co.uk/video/hsl-signing-videos/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        },
+                        {
+                            "id": "1885",
+                            "ordering": 6,
+                            "type": "link",
+                            "title": "Used It? Log It – Reporting Guide",
+                            "linkUrl": "https://www.outoftheark.co.uk/copyright-licences/",
+                            "pdfFile": null,
+                            "pdfFileMd5": "",
+                            "pdfFileSize": 0,
+                            "sfxFile": null,
+                            "sfxFileMd5": "",
+                            "sfxFileSize": 0,
+                            "__typename": "EsbResource"
+                        }
+                    ],
+                    "songs": [
+                        {
+                            "id": "152",
+                            "title": "It’s Good To Be Me!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 147640,
+                            "pivot": {
+                                "ordering": 2,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "155",
+                            "title": "A Song You’ll Love To Know!",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 115200,
+                            "pivot": {
+                                "ordering": 3,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "158",
+                            "title": "Don’t Go Listening To Lies",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 141080,
+                            "pivot": {
+                                "ordering": 5,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "159",
+                            "title": "Cause To Be Grateful",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 153650,
+                            "pivot": {
+                                "ordering": 6,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "160",
+                            "title": "Happiness Is Not...",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 135790,
+                            "pivot": {
+                                "ordering": 10,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "161",
+                            "title": "Our Father (The Lord’s Prayer)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 212120,
+                            "pivot": {
+                                "ordering": 12,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "162",
+                            "title": "These Simple Things",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 108010,
+                            "pivot": {
+                                "ordering": 9,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "163",
+                            "title": "Brighter Day Tomorrow",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 128570,
+                            "pivot": {
+                                "ordering": 15,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "164",
+                            "title": "Thank You God",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 177550,
+                            "pivot": {
+                                "ordering": 11,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "165",
+                            "title": "You Can Never Be Too Grateful",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 159270,
+                            "pivot": {
+                                "ordering": 4,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "167",
+                            "title": "You Can Never Be Too Grateful (Worship Version)",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 160270,
+                            "pivot": {
+                                "ordering": 16,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "435",
+                            "title": "We’re In It Together",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 146060,
+                            "pivot": {
+                                "ordering": 1,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "436",
+                            "title": "A Healthy Life",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 146200,
+                            "pivot": {
+                                "ordering": 7,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "437",
+                            "title": "A Little Bit Of Kindness",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 186420,
+                            "pivot": {
+                                "ordering": 8,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "438",
+                            "title": "Put On A Smile",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 180430,
+                            "pivot": {
+                                "ordering": 13,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        },
+                        {
+                            "id": "2192",
+                            "title": "Change And Grow",
+                            "author": "Mark and Helen Johnson",
+                            "age": "5-11",
+                            "albumArt": "https://assets.sparkyard.com/uploads/AlbumArt/sfe-happyhealthyschool-cd-1626164430IPt0v.jpg",
+                            "duration": 203590,
+                            "pivot": {
+                                "ordering": 14,
+                                "__typename": "SongPivot"
+                            },
+                            "__typename": "Song"
+                        }
+                    ],
+                    "__typename": "Esongbook"
+                }
+            ],
+            "__typename": "Song",
+            "isFavourited": false
+        }
+    }
+}
