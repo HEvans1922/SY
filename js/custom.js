@@ -63,22 +63,27 @@ function resourceDropdown() {
 function setupModal(buttonId, modalId) {
 	const btn = document.getElementById(buttonId);
 	const modal = document.getElementById(modalId);
-	const closeButton = modal.querySelector('.close');
+
+	if (modal) {
+		const closeButton = modal.querySelector('.modalClose');
+
+		// Open modal when button is clicked
+		btn.onclick = function () {
+			modal.style.display = 'block';
+		};
+
+		// Close modal when close button is clicked
+		closeButton.onclick = function () {
+			modal.style.display = 'none';
+		};
+	}
+	
   
-	// Open modal when button is clicked
-	btn.onclick = function () {
-	  modal.style.display = 'block';
-	};
-  
-	// Close modal when close button is clicked
-	closeButton.onclick = function () {
-	  modal.style.display = 'none';
-	};
+
   }
   
   // Set up multiple modals
   
   setupModal('LyricsBtn', 'LyricsModal');
   setupModal('ScoreBtn', 'ScoreModal');
-  setupModal('AudioBtn', 'AudioModal'); 
   setupModal('InfoBtn', 'InfoModal');
