@@ -273,8 +273,8 @@ document.addEventListener("click", e => {
 
 function stopPlayer() {
     audio.pause();
-    audio.currentTime = 0;
-    audio.duration = 
+    audio.currentTime = 0.0000001;
     pauseIcon.classList.add("hidden");
     playIcon.classList.remove("hidden");
 }
+
